@@ -1,0 +1,1001 @@
+FEATURE,SATISFACTION_WEIGHT,DISSATISFACTION_WEIGHT,QUARTERLY_PERIODS,COUNTRY,WEIGHT_PER_PERSON,RESTAURANT_NAME,CITY,BOOKING_CHANNEL,RESTAURANT_BRAND,AGE,AGE_BREAKS,GENDER,RESERVATION_TYPE,ORDER_TYPE,UNIQUE_ID
+Location & Accessibility,5325.47954,0.00000,2024Q3,IT,5325.47954,Subway Rome #38,Rome,UberEats,Subway,42,35-45,Male,Reserved,Delivery,1
+Pricing,5325.47954,0.00000,2024Q3,IT,0.00000,Subway Rome #38,Rome,UberEats,Subway,42,35-45,Male,Reserved,Delivery,1
+Customer Service,8734.52178,0.00000,2024Q2,US,8734.52178,McDonald's New York #66,New York,OpenTable,McDonald's,21,18-24,Female,Reserved,Eat In,2
+Hygiene & Cleanliness,8734.52178,0.00000,2024Q2,US,0.00000,McDonald's New York #66,New York,OpenTable,McDonald's,21,18-24,Female,Reserved,Eat In,2
+Location & Accessibility,8654.16630,0.00000,2024Q3,US,8654.16630,Subway New York #61,New York,JustEat,Subway,33,25-34,Male,Reserved,Delivery,3
+Menu Variety,9010.89418,0.00000,2024Q2,DE,9010.89418,Subway Berlin #41,Berlin,OpenTable,Subway,61,55-64,Female,Reserved,Eat In,4
+Hygiene & Cleanliness,9010.89418,0.00000,2024Q2,DE,0.00000,Subway Berlin #41,Berlin,OpenTable,Subway,61,55-64,Female,Reserved,Eat In,4
+Special Features or Experiences,9063.62123,0.00000,2024Q2,UK,9063.62123,McDonald's London #32,London,Deliveroo,McDonald's,22,18-24,Female,Reserved,Delivery,5
+Hygiene & Cleanliness,9063.62123,0.00000,2024Q2,UK,0.00000,McDonald's London #32,London,Deliveroo,McDonald's,22,18-24,Female,Reserved,Delivery,5
+Customer Service,0.00000,3971.09942,2024Q2,IT,3971.09942,Subway Rome #61,Rome,Deliveroo,Subway,44,35-45,Male,Reserved,Delivery,6
+Menu Variety,0.00000,3971.09942,2024Q2,IT,0.00000,Subway Rome #61,Rome,Deliveroo,Subway,44,35-45,Male,Reserved,Delivery,6
+Ambience,0.00000,3971.09942,2024Q2,IT,0.00000,Subway Rome #61,Rome,Deliveroo,Subway,44,35-45,Male,Reserved,Delivery,6
+Pricing,0.00000,3971.09942,2024Q2,IT,0.00000,Subway Rome #61,Rome,Deliveroo,Subway,44,35-45,Male,Reserved,Delivery,6
+Location & Accessibility,0.00000,8513.99484,2024Q2,IT,8513.99484,Burger King Rome #16,Rome,UberEats,Burger King,32,25-34,Female,Reserved,Delivery,7
+Service Speed,0.00000,8513.99484,2024Q2,IT,0.00000,Burger King Rome #16,Rome,UberEats,Burger King,32,25-34,Female,Reserved,Delivery,7
+Reservation System,2506.14752,0.00000,2024Q2,FR,2506.14752,Subway Paris #98,Paris,Deliveroo,Subway,32,25-34,Female,Reserved,Delivery,8
+Pricing,5444.79183,0.00000,2024Q3,FR,5444.79183,Chipotle Paris #4,Paris,JustEat,Chipotle,40,35-45,Male,Reserved,Delivery,9
+Ambience,5444.79183,0.00000,2024Q3,FR,0.00000,Chipotle Paris #4,Paris,JustEat,Chipotle,40,35-45,Male,Reserved,Delivery,9
+Location & Accessibility,5444.79183,0.00000,2024Q3,FR,0.00000,Chipotle Paris #4,Paris,JustEat,Chipotle,40,35-45,Male,Reserved,Delivery,9
+Hygiene & Cleanliness,5441.82942,0.00000,2024Q3,UK,5441.82942,Subway London #83,London,OpenTable,Subway,23,18-24,Male,Reserved,Eat In,10
+Food Quality,5441.82942,0.00000,2024Q3,UK,0.00000,Subway London #83,London,OpenTable,Subway,23,18-24,Male,Reserved,Eat In,10
+Special Features or Experiences,3921.45807,0.00000,2024Q3,UK,3921.45807,Chipotle London #11,London,Deliveroo,Chipotle,73,65+,Male,Reserved,Delivery,11
+Reservation System,4510.45735,0.00000,2024Q2,UK,4510.45735,KFC London #94,London,UberEats,KFC,62,55-64,Female,Reserved,Delivery,12
+Menu Variety,4510.45735,0.00000,2024Q2,UK,0.00000,KFC London #94,London,UberEats,KFC,62,55-64,Female,Reserved,Delivery,12
+Location & Accessibility,4510.45735,0.00000,2024Q2,UK,0.00000,KFC London #94,London,UberEats,KFC,62,55-64,Female,Reserved,Delivery,12
+Service Speed,7769.42076,0.00000,2024Q3,DE,7769.42076,Burger King Berlin #98,Berlin,Deliveroo,Burger King,23,18-24,Male,Reserved,Delivery,13
+Location & Accessibility,4052.61166,0.00000,2024Q2,UK,4052.61166,McDonald's London #49,London,OpenTable,McDonald's,41,35-45,Female,Reserved,Eat In,14
+Customer Service,6268.25167,0.00000,2024Q2,IT,6268.25167,Burger King Rome #56,Rome,RestaurantWebsite,Burger King,31,25-34,Female,Reserved,Delivery,15
+Reservation System,6268.25167,0.00000,2024Q2,IT,0.00000,Burger King Rome #56,Rome,RestaurantWebsite,Burger King,31,25-34,Female,Reserved,Delivery,15
+Menu Variety,6268.25167,0.00000,2024Q2,IT,0.00000,Burger King Rome #56,Rome,RestaurantWebsite,Burger King,31,25-34,Female,Reserved,Delivery,15
+Hygiene & Cleanliness,6268.25167,0.00000,2024Q2,IT,0.00000,Burger King Rome #56,Rome,RestaurantWebsite,Burger King,31,25-34,Female,Reserved,Delivery,15
+Customer Service,7556.62111,0.00000,2024Q2,US,7556.62111,Subway New York #23,New York,OpenTable,Subway,66,65+,Female,Reserved,Eat In,16
+Special Features or Experiences,7556.62111,0.00000,2024Q2,US,0.00000,Subway New York #23,New York,OpenTable,Subway,66,65+,Female,Reserved,Eat In,16
+Ambience,7556.62111,0.00000,2024Q2,US,0.00000,Subway New York #23,New York,OpenTable,Subway,66,65+,Female,Reserved,Eat In,16
+Pricing,9657.77708,0.00000,2024Q3,IT,9657.77708,Chipotle Rome #2,Rome,JustEat,Chipotle,23,18-24,Male,Reserved,Delivery,17
+Location & Accessibility,9657.77708,0.00000,2024Q3,IT,0.00000,Chipotle Rome #2,Rome,JustEat,Chipotle,23,18-24,Male,Reserved,Delivery,17
+Ambience,9657.77708,0.00000,2024Q3,IT,0.00000,Chipotle Rome #2,Rome,JustEat,Chipotle,23,18-24,Male,Reserved,Delivery,17
+Service Speed,9657.77708,0.00000,2024Q3,IT,0.00000,Chipotle Rome #2,Rome,JustEat,Chipotle,23,18-24,Male,Reserved,Delivery,17
+Hygiene & Cleanliness,2677.97325,0.00000,2024Q3,UK,2677.97325,KFC London #83,London,Deliveroo,KFC,57,55-64,Male,Reserved,Delivery,18
+Reservation System,2677.97325,0.00000,2024Q3,UK,0.00000,KFC London #83,London,Deliveroo,KFC,57,55-64,Male,Reserved,Delivery,18
+Customer Service,0.00000,1983.06843,2024Q3,US,1983.06843,KFC New York #96,New York,Deliveroo,KFC,37,35-45,Male,Reserved,Delivery,19
+Customer Service,7245.19072,0.00000,2024Q2,UK,7245.19072,Chipotle London #53,London,UberEats,Chipotle,34,25-34,Female,Reserved,Delivery,20
+Location & Accessibility,7245.19072,0.00000,2024Q2,UK,0.00000,Chipotle London #53,London,UberEats,Chipotle,34,25-34,Female,Reserved,Delivery,20
+Service Speed,7245.19072,0.00000,2024Q2,UK,0.00000,Chipotle London #53,London,UberEats,Chipotle,34,25-34,Female,Reserved,Delivery,20
+Special Features or Experiences,7245.19072,0.00000,2024Q2,UK,0.00000,Chipotle London #53,London,UberEats,Chipotle,34,25-34,Female,Reserved,Delivery,20
+Special Features or Experiences,6094.55969,0.00000,2024Q2,IT,6094.55969,KFC Rome #27,Rome,JustEat,KFC,28,25-34,Female,Reserved,Delivery,21
+Food Quality,6094.55969,0.00000,2024Q2,IT,0.00000,KFC Rome #27,Rome,JustEat,KFC,28,25-34,Female,Reserved,Delivery,21
+Ambience,0.00000,2733.75347,2024Q2,UK,2733.75347,Subway London #35,London,RestaurantWebsite,Subway,25,25-34,Female,Walk-In,Takeout,22
+Pricing,0.00000,2733.75347,2024Q2,UK,0.00000,Subway London #35,London,RestaurantWebsite,Subway,25,25-34,Female,Walk-In,Takeout,22
+Service Speed,0.00000,2733.75347,2024Q2,UK,0.00000,Subway London #35,London,RestaurantWebsite,Subway,25,25-34,Female,Walk-In,Takeout,22
+Menu Variety,0.00000,2733.75347,2024Q2,UK,0.00000,Subway London #35,London,RestaurantWebsite,Subway,25,25-34,Female,Walk-In,Takeout,22
+Hygiene & Cleanliness,2450.04627,0.00000,2024Q3,UK,2450.04627,Subway London #100,London,RestaurantWebsite,Subway,25,25-34,Male,Reserved,Delivery,23
+Reservation System,2450.04627,0.00000,2024Q3,UK,0.00000,Subway London #100,London,RestaurantWebsite,Subway,25,25-34,Male,Reserved,Delivery,23
+Customer Service,2450.04627,0.00000,2024Q3,UK,0.00000,Subway London #100,London,RestaurantWebsite,Subway,25,25-34,Male,Reserved,Delivery,23
+Food Quality,6193.04918,0.00000,2024Q3,DE,6193.04918,KFC Berlin #82,Berlin,RestaurantWebsite,KFC,20,18-24,Male,Walk-In,Eat In,24
+Hygiene & Cleanliness,6193.04918,0.00000,2024Q3,DE,0.00000,KFC Berlin #82,Berlin,RestaurantWebsite,KFC,20,18-24,Male,Walk-In,Eat In,24
+Location & Accessibility,7435.99679,0.00000,2024Q2,DE,7435.99679,McDonald's Berlin #44,Berlin,OpenTable,McDonald's,87,65+,Female,Reserved,Eat In,25
+Pricing,6539.47513,0.00000,2024Q3,FR,6539.47513,McDonald's Paris #34,Paris,UberEats,McDonald's,57,55-64,Male,Reserved,Delivery,26
+Pricing,0.00000,9110.93742,2024Q2,DE,9110.93742,Subway Berlin #82,Berlin,OpenTable,Subway,19,18-24,Male,Reserved,Eat In,27
+Service Speed,0.00000,9110.93742,2024Q2,DE,0.00000,Subway Berlin #82,Berlin,OpenTable,Subway,19,18-24,Male,Reserved,Eat In,27
+Menu Variety,0.00000,9110.93742,2024Q2,DE,0.00000,Subway Berlin #82,Berlin,OpenTable,Subway,19,18-24,Male,Reserved,Eat In,27
+Pricing,2660.02398,0.00000,2024Q2,ES,2660.02398,Subway Madrid #21,Madrid,OpenTable,Subway,60,55-64,Male,Reserved,Eat In,28
+Hygiene & Cleanliness,2660.02398,0.00000,2024Q2,ES,0.00000,Subway Madrid #21,Madrid,OpenTable,Subway,60,55-64,Male,Reserved,Eat In,28
+Reservation System,2660.02398,0.00000,2024Q2,ES,0.00000,Subway Madrid #21,Madrid,OpenTable,Subway,60,55-64,Male,Reserved,Eat In,28
+Menu Variety,2660.02398,0.00000,2024Q2,ES,0.00000,Subway Madrid #21,Madrid,OpenTable,Subway,60,55-64,Male,Reserved,Eat In,28
+Service Speed,2493.63824,0.00000,2024Q3,UK,2493.63824,Chipotle London #100,London,UberEats,Chipotle,59,55-64,Male,Reserved,Delivery,29
+Menu Variety,6891.67968,0.00000,2024Q3,US,6891.67968,KFC New York #43,New York,UberEats,KFC,25,25-34,Male,Reserved,Delivery,30
+Reservation System,6891.67968,0.00000,2024Q3,US,0.00000,KFC New York #43,New York,UberEats,KFC,25,25-34,Male,Reserved,Delivery,30
+Customer Service,6891.67968,0.00000,2024Q3,US,0.00000,KFC New York #43,New York,UberEats,KFC,25,25-34,Male,Reserved,Delivery,30
+Special Features or Experiences,6891.67968,0.00000,2024Q3,US,0.00000,KFC New York #43,New York,UberEats,KFC,25,25-34,Male,Reserved,Delivery,30
+Customer Service,1191.13565,0.00000,2024Q3,IT,1191.13565,Burger King Rome #62,Rome,Deliveroo,Burger King,61,55-64,Male,Reserved,Delivery,31
+Reservation System,1191.13565,0.00000,2024Q3,IT,0.00000,Burger King Rome #62,Rome,Deliveroo,Burger King,61,55-64,Male,Reserved,Delivery,31
+Food Quality,1191.13565,0.00000,2024Q3,IT,0.00000,Burger King Rome #62,Rome,Deliveroo,Burger King,61,55-64,Male,Reserved,Delivery,31
+Menu Variety,1191.13565,0.00000,2024Q3,IT,0.00000,Burger King Rome #62,Rome,Deliveroo,Burger King,61,55-64,Male,Reserved,Delivery,31
+Customer Service,8876.38649,0.00000,2024Q3,ES,8876.38649,KFC Madrid #66,Madrid,Deliveroo,KFC,76,65+,Female,Reserved,Delivery,32
+Location & Accessibility,8876.38649,0.00000,2024Q3,ES,0.00000,KFC Madrid #66,Madrid,Deliveroo,KFC,76,65+,Female,Reserved,Delivery,32
+Location & Accessibility,0.00000,4389.64739,2024Q3,DE,4389.64739,Chipotle Berlin #47,Berlin,UberEats,Chipotle,55,55-64,Male,Reserved,Delivery,33
+Service Speed,0.00000,4389.64739,2024Q3,DE,0.00000,Chipotle Berlin #47,Berlin,UberEats,Chipotle,55,55-64,Male,Reserved,Delivery,33
+Menu Variety,0.00000,4389.64739,2024Q3,DE,0.00000,Chipotle Berlin #47,Berlin,UberEats,Chipotle,55,55-64,Male,Reserved,Delivery,33
+Hygiene & Cleanliness,0.00000,4389.64739,2024Q3,DE,0.00000,Chipotle Berlin #47,Berlin,UberEats,Chipotle,55,55-64,Male,Reserved,Delivery,33
+Service Speed,0.00000,7884.76990,2024Q2,US,7884.76990,KFC New York #1,New York,Deliveroo,KFC,27,25-34,Female,Reserved,Delivery,34
+Location & Accessibility,0.00000,7884.76990,2024Q2,US,0.00000,KFC New York #1,New York,Deliveroo,KFC,27,25-34,Female,Reserved,Delivery,34
+Food Quality,0.00000,7884.76990,2024Q2,US,0.00000,KFC New York #1,New York,Deliveroo,KFC,27,25-34,Female,Reserved,Delivery,34
+Customer Service,0.00000,7884.76990,2024Q2,US,0.00000,KFC New York #1,New York,Deliveroo,KFC,27,25-34,Female,Reserved,Delivery,34
+Food Quality,0.00000,3124.04231,2024Q2,UK,3124.04231,Burger King London #7,London,JustEat,Burger King,57,55-64,Male,Reserved,Delivery,35
+Special Features or Experiences,0.00000,3124.04231,2024Q2,UK,0.00000,Burger King London #7,London,JustEat,Burger King,57,55-64,Male,Reserved,Delivery,35
+Special Features or Experiences,0.00000,2952.27877,2024Q2,ES,2952.27877,Burger King Madrid #30,Madrid,JustEat,Burger King,56,55-64,Female,Reserved,Delivery,36
+Menu Variety,0.00000,2952.27877,2024Q2,ES,0.00000,Burger King Madrid #30,Madrid,JustEat,Burger King,56,55-64,Female,Reserved,Delivery,36
+Hygiene & Cleanliness,2652.48281,0.00000,2024Q2,US,2652.48281,Burger King New York #24,New York,OpenTable,Burger King,43,35-45,Male,Reserved,Eat In,37
+Special Features or Experiences,5393.22501,0.00000,2024Q2,DE,5393.22501,Subway Berlin #10,Berlin,Deliveroo,Subway,34,25-34,Female,Reserved,Delivery,38
+Hygiene & Cleanliness,5393.22501,0.00000,2024Q2,DE,0.00000,Subway Berlin #10,Berlin,Deliveroo,Subway,34,25-34,Female,Reserved,Delivery,38
+Ambience,5393.22501,0.00000,2024Q2,DE,0.00000,Subway Berlin #10,Berlin,Deliveroo,Subway,34,25-34,Female,Reserved,Delivery,38
+Menu Variety,5393.22501,0.00000,2024Q2,DE,0.00000,Subway Berlin #10,Berlin,Deliveroo,Subway,34,25-34,Female,Reserved,Delivery,38
+Ambience,0.00000,8889.78391,2024Q2,DE,8889.78391,Chipotle Berlin #23,Berlin,Deliveroo,Chipotle,42,35-45,Female,Reserved,Delivery,39
+Customer Service,0.00000,4609.93773,2024Q3,FR,4609.93773,Burger King Paris #56,Paris,OpenTable,Burger King,29,25-34,Female,Reserved,Eat In,40
+Pricing,9992.46952,0.00000,2024Q2,UK,9992.46952,Subway London #56,London,UberEats,Subway,80,65+,Male,Reserved,Delivery,41
+Food Quality,9992.46952,0.00000,2024Q2,UK,0.00000,Subway London #56,London,UberEats,Subway,80,65+,Male,Reserved,Delivery,41
+Menu Variety,0.00000,5837.27205,2024Q2,FR,5837.27205,Subway Paris #27,Paris,Deliveroo,Subway,30,25-34,Male,Reserved,Delivery,42
+Pricing,0.00000,5837.27205,2024Q2,FR,0.00000,Subway Paris #27,Paris,Deliveroo,Subway,30,25-34,Male,Reserved,Delivery,42
+Ambience,0.00000,5837.27205,2024Q2,FR,0.00000,Subway Paris #27,Paris,Deliveroo,Subway,30,25-34,Male,Reserved,Delivery,42
+Food Quality,0.00000,8190.29199,2024Q3,ES,8190.29199,KFC Madrid #58,Madrid,OpenTable,KFC,21,18-24,Female,Reserved,Eat In,43
+Menu Variety,0.00000,8190.29199,2024Q3,ES,0.00000,KFC Madrid #58,Madrid,OpenTable,KFC,21,18-24,Female,Reserved,Eat In,43
+Food Quality,7493.52172,0.00000,2024Q3,FR,7493.52172,KFC Paris #65,Paris,RestaurantWebsite,KFC,25,25-34,Male,Walk-In,Takeout,44
+Menu Variety,7493.52172,0.00000,2024Q3,FR,0.00000,KFC Paris #65,Paris,RestaurantWebsite,KFC,25,25-34,Male,Walk-In,Takeout,44
+Service Speed,8071.79828,0.00000,2024Q3,IT,8071.79828,Chipotle Rome #74,Rome,Deliveroo,Chipotle,33,25-34,Male,Reserved,Delivery,45
+Hygiene & Cleanliness,8071.79828,0.00000,2024Q3,IT,0.00000,Chipotle Rome #74,Rome,Deliveroo,Chipotle,33,25-34,Male,Reserved,Delivery,45
+Menu Variety,9000.19682,0.00000,2024Q2,UK,9000.19682,Subway London #95,London,JustEat,Subway,35,35-45,Male,Reserved,Delivery,46
+Ambience,1489.76812,0.00000,2024Q3,DE,1489.76812,Subway Berlin #36,Berlin,UberEats,Subway,56,55-64,Male,Reserved,Delivery,47
+Service Speed,1489.76812,0.00000,2024Q3,DE,0.00000,Subway Berlin #36,Berlin,UberEats,Subway,56,55-64,Male,Reserved,Delivery,47
+Location & Accessibility,1489.76812,0.00000,2024Q3,DE,0.00000,Subway Berlin #36,Berlin,UberEats,Subway,56,55-64,Male,Reserved,Delivery,47
+Special Features or Experiences,1489.76812,0.00000,2024Q3,DE,0.00000,Subway Berlin #36,Berlin,UberEats,Subway,56,55-64,Male,Reserved,Delivery,47
+Service Speed,8170.43562,0.00000,2024Q2,UK,8170.43562,Subway London #10,London,OpenTable,Subway,32,25-34,Male,Reserved,Eat In,48
+Reservation System,4402.98464,0.00000,2024Q3,ES,4402.98464,KFC Madrid #83,Madrid,JustEat,KFC,30,25-34,Female,Reserved,Delivery,49
+Service Speed,4402.98464,0.00000,2024Q3,ES,0.00000,KFC Madrid #83,Madrid,JustEat,KFC,30,25-34,Female,Reserved,Delivery,49
+Food Quality,2506.26671,0.00000,2024Q2,IT,2506.26671,Burger King Rome #23,Rome,Deliveroo,Burger King,69,65+,Male,Reserved,Delivery,50
+Ambience,2506.26671,0.00000,2024Q2,IT,0.00000,Burger King Rome #23,Rome,Deliveroo,Burger King,69,65+,Male,Reserved,Delivery,50
+Ambience,9814.51231,0.00000,2024Q2,FR,9814.51231,KFC Paris #56,Paris,RestaurantWebsite,KFC,63,55-64,Male,Walk-In,Takeout,51
+Special Features or Experiences,9814.51231,0.00000,2024Q2,FR,0.00000,KFC Paris #56,Paris,RestaurantWebsite,KFC,63,55-64,Male,Walk-In,Takeout,51
+Pricing,9814.51231,0.00000,2024Q2,FR,0.00000,KFC Paris #56,Paris,RestaurantWebsite,KFC,63,55-64,Male,Walk-In,Takeout,51
+Pricing,5972.85583,0.00000,2024Q3,ES,5972.85583,Chipotle Madrid #28,Madrid,Deliveroo,Chipotle,40,35-45,Male,Reserved,Delivery,52
+Ambience,5972.85583,0.00000,2024Q3,ES,0.00000,Chipotle Madrid #28,Madrid,Deliveroo,Chipotle,40,35-45,Male,Reserved,Delivery,52
+Special Features or Experiences,5972.85583,0.00000,2024Q3,ES,0.00000,Chipotle Madrid #28,Madrid,Deliveroo,Chipotle,40,35-45,Male,Reserved,Delivery,52
+Hygiene & Cleanliness,5415.06456,0.00000,2024Q2,ES,5415.06456,Subway Madrid #72,Madrid,Deliveroo,Subway,42,35-45,Female,Reserved,Delivery,53
+Service Speed,5415.06456,0.00000,2024Q2,ES,0.00000,Subway Madrid #72,Madrid,Deliveroo,Subway,42,35-45,Female,Reserved,Delivery,53
+Food Quality,5415.06456,0.00000,2024Q2,ES,0.00000,Subway Madrid #72,Madrid,Deliveroo,Subway,42,35-45,Female,Reserved,Delivery,53
+Food Quality,0.00000,4949.31309,2024Q2,US,4949.31309,Burger King New York #10,New York,Deliveroo,Burger King,82,65+,Female,Reserved,Delivery,54
+Service Speed,0.00000,4949.31309,2024Q2,US,0.00000,Burger King New York #10,New York,Deliveroo,Burger King,82,65+,Female,Reserved,Delivery,54
+Hygiene & Cleanliness,0.00000,4949.31309,2024Q2,US,0.00000,Burger King New York #10,New York,Deliveroo,Burger King,82,65+,Female,Reserved,Delivery,54
+Pricing,0.00000,4949.31309,2024Q2,US,0.00000,Burger King New York #10,New York,Deliveroo,Burger King,82,65+,Female,Reserved,Delivery,54
+Food Quality,0.00000,5626.11372,2024Q2,DE,5626.11372,Chipotle Berlin #24,Berlin,RestaurantWebsite,Chipotle,81,65+,Male,Reserved,Eat In,55
+Menu Variety,0.00000,5626.11372,2024Q2,DE,0.00000,Chipotle Berlin #24,Berlin,RestaurantWebsite,Chipotle,81,65+,Male,Reserved,Eat In,55
+Menu Variety,7776.97325,0.00000,2024Q3,ES,7776.97325,McDonald's Madrid #56,Madrid,OpenTable,McDonald's,68,65+,Male,Reserved,Eat In,56
+Ambience,2584.23614,0.00000,2024Q3,DE,2584.23614,Subway Berlin #57,Berlin,OpenTable,Subway,20,18-24,Male,Reserved,Eat In,57
+Customer Service,2584.23614,0.00000,2024Q3,DE,0.00000,Subway Berlin #57,Berlin,OpenTable,Subway,20,18-24,Male,Reserved,Eat In,57
+Special Features or Experiences,2584.23614,0.00000,2024Q3,DE,0.00000,Subway Berlin #57,Berlin,OpenTable,Subway,20,18-24,Male,Reserved,Eat In,57
+Location & Accessibility,2584.23614,0.00000,2024Q3,DE,0.00000,Subway Berlin #57,Berlin,OpenTable,Subway,20,18-24,Male,Reserved,Eat In,57
+Reservation System,0.00000,5188.98040,2024Q2,DE,5188.98040,Subway Berlin #85,Berlin,JustEat,Subway,23,18-24,Female,Reserved,Delivery,58
+Food Quality,0.00000,5188.98040,2024Q2,DE,0.00000,Subway Berlin #85,Berlin,JustEat,Subway,23,18-24,Female,Reserved,Delivery,58
+Location & Accessibility,0.00000,5188.98040,2024Q2,DE,0.00000,Subway Berlin #85,Berlin,JustEat,Subway,23,18-24,Female,Reserved,Delivery,58
+Pricing,0.00000,5188.98040,2024Q2,DE,0.00000,Subway Berlin #85,Berlin,JustEat,Subway,23,18-24,Female,Reserved,Delivery,58
+Location & Accessibility,6838.74261,0.00000,2024Q2,UK,6838.74261,Chipotle London #79,London,RestaurantWebsite,Chipotle,89,65+,Female,Reserved,Delivery,59
+Ambience,6838.74261,0.00000,2024Q2,UK,0.00000,Chipotle London #79,London,RestaurantWebsite,Chipotle,89,65+,Female,Reserved,Delivery,59
+Ambience,0.00000,4880.19878,2024Q3,UK,4880.19878,Subway London #13,London,Deliveroo,Subway,88,65+,Female,Reserved,Delivery,60
+Menu Variety,0.00000,4880.19878,2024Q3,UK,0.00000,Subway London #13,London,Deliveroo,Subway,88,65+,Female,Reserved,Delivery,60
+Location & Accessibility,0.00000,4880.19878,2024Q3,UK,0.00000,Subway London #13,London,Deliveroo,Subway,88,65+,Female,Reserved,Delivery,60
+Special Features or Experiences,0.00000,4880.19878,2024Q3,UK,0.00000,Subway London #13,London,Deliveroo,Subway,88,65+,Female,Reserved,Delivery,60
+Service Speed,7562.36217,0.00000,2024Q2,ES,7562.36217,KFC Madrid #46,Madrid,OpenTable,KFC,38,35-45,Male,Reserved,Eat In,61
+Customer Service,7562.36217,0.00000,2024Q2,ES,0.00000,KFC Madrid #46,Madrid,OpenTable,KFC,38,35-45,Male,Reserved,Eat In,61
+Pricing,7562.36217,0.00000,2024Q2,ES,0.00000,KFC Madrid #46,Madrid,OpenTable,KFC,38,35-45,Male,Reserved,Eat In,61
+Food Quality,7562.36217,0.00000,2024Q2,ES,0.00000,KFC Madrid #46,Madrid,OpenTable,KFC,38,35-45,Male,Reserved,Eat In,61
+Pricing,3073.64230,0.00000,2024Q3,DE,3073.64230,Subway Berlin #86,Berlin,OpenTable,Subway,29,25-34,Female,Reserved,Eat In,62
+Customer Service,3073.64230,0.00000,2024Q3,DE,0.00000,Subway Berlin #86,Berlin,OpenTable,Subway,29,25-34,Female,Reserved,Eat In,62
+Menu Variety,3073.64230,0.00000,2024Q3,DE,0.00000,Subway Berlin #86,Berlin,OpenTable,Subway,29,25-34,Female,Reserved,Eat In,62
+Customer Service,4051.66826,0.00000,2024Q2,UK,4051.66826,KFC London #78,London,RestaurantWebsite,KFC,24,18-24,Male,Walk-In,Takeout,63
+Reservation System,4196.71546,0.00000,2024Q2,UK,4196.71546,Chipotle London #71,London,Deliveroo,Chipotle,68,65+,Female,Reserved,Delivery,64
+Food Quality,4196.71546,0.00000,2024Q2,UK,0.00000,Chipotle London #71,London,Deliveroo,Chipotle,68,65+,Female,Reserved,Delivery,64
+Service Speed,4196.71546,0.00000,2024Q2,UK,0.00000,Chipotle London #71,London,Deliveroo,Chipotle,68,65+,Female,Reserved,Delivery,64
+Reservation System,0.00000,4886.99345,2024Q2,IT,4886.99345,Burger King Rome #50,Rome,RestaurantWebsite,Burger King,60,55-64,Female,Walk-In,Takeout,65
+Customer Service,0.00000,8931.06470,2024Q2,UK,8931.06470,KFC London #6,London,JustEat,KFC,42,35-45,Female,Reserved,Delivery,66
+Hygiene & Cleanliness,0.00000,8931.06470,2024Q2,UK,0.00000,KFC London #6,London,JustEat,KFC,42,35-45,Female,Reserved,Delivery,66
+Food Quality,7339.28650,0.00000,2024Q3,US,7339.28650,KFC New York #93,New York,OpenTable,KFC,63,55-64,Female,Reserved,Eat In,67
+Location & Accessibility,1794.16537,0.00000,2024Q3,DE,1794.16537,Subway Berlin #77,Berlin,RestaurantWebsite,Subway,86,65+,Male,Walk-In,Eat In,68
+Ambience,1794.16537,0.00000,2024Q3,DE,0.00000,Subway Berlin #77,Berlin,RestaurantWebsite,Subway,86,65+,Male,Walk-In,Eat In,68
+Hygiene & Cleanliness,1794.16537,0.00000,2024Q3,DE,0.00000,Subway Berlin #77,Berlin,RestaurantWebsite,Subway,86,65+,Male,Walk-In,Eat In,68
+Reservation System,5180.45757,0.00000,2024Q3,US,5180.45757,Subway New York #31,New York,UberEats,Subway,21,18-24,Female,Reserved,Delivery,69
+Service Speed,5180.45757,0.00000,2024Q3,US,0.00000,Subway New York #31,New York,UberEats,Subway,21,18-24,Female,Reserved,Delivery,69
+Food Quality,5180.45757,0.00000,2024Q3,US,0.00000,Subway New York #31,New York,UberEats,Subway,21,18-24,Female,Reserved,Delivery,69
+Service Speed,6139.73680,0.00000,2024Q2,UK,6139.73680,McDonald's London #7,London,JustEat,McDonald's,62,55-64,Female,Reserved,Delivery,70
+Hygiene & Cleanliness,6139.73680,0.00000,2024Q2,UK,0.00000,McDonald's London #7,London,JustEat,McDonald's,62,55-64,Female,Reserved,Delivery,70
+Pricing,6139.73680,0.00000,2024Q2,UK,0.00000,McDonald's London #7,London,JustEat,McDonald's,62,55-64,Female,Reserved,Delivery,70
+Ambience,0.00000,7662.81677,2024Q2,IT,7662.81677,Subway Rome #68,Rome,UberEats,Subway,23,18-24,Female,Reserved,Delivery,71
+Customer Service,0.00000,7662.81677,2024Q2,IT,0.00000,Subway Rome #68,Rome,UberEats,Subway,23,18-24,Female,Reserved,Delivery,71
+Ambience,1079.13145,0.00000,2024Q2,ES,1079.13145,Chipotle Madrid #99,Madrid,UberEats,Chipotle,42,35-45,Female,Reserved,Delivery,72
+Pricing,1079.13145,0.00000,2024Q2,ES,0.00000,Chipotle Madrid #99,Madrid,UberEats,Chipotle,42,35-45,Female,Reserved,Delivery,72
+Menu Variety,0.00000,3911.07924,2024Q3,ES,3911.07924,Burger King Madrid #34,Madrid,Deliveroo,Burger King,29,25-34,Female,Reserved,Delivery,73
+Pricing,6179.40432,0.00000,2024Q3,UK,6179.40432,McDonald's London #34,London,UberEats,McDonald's,24,18-24,Male,Reserved,Delivery,74
+Hygiene & Cleanliness,9606.10133,0.00000,2024Q2,FR,9606.10133,McDonald's Paris #64,Paris,UberEats,McDonald's,55,55-64,Male,Reserved,Delivery,75
+Location & Accessibility,5669.86419,0.00000,2024Q3,DE,5669.86419,Chipotle Berlin #100,Berlin,RestaurantWebsite,Chipotle,25,25-34,Female,Walk-In,Eat In,76
+Customer Service,5669.86419,0.00000,2024Q3,DE,0.00000,Chipotle Berlin #100,Berlin,RestaurantWebsite,Chipotle,25,25-34,Female,Walk-In,Eat In,76
+Food Quality,5669.86419,0.00000,2024Q3,DE,0.00000,Chipotle Berlin #100,Berlin,RestaurantWebsite,Chipotle,25,25-34,Female,Walk-In,Eat In,76
+Menu Variety,0.00000,7141.25464,2024Q3,UK,7141.25464,Subway London #5,London,JustEat,Subway,30,25-34,Male,Reserved,Delivery,77
+Food Quality,0.00000,7141.25464,2024Q3,UK,0.00000,Subway London #5,London,JustEat,Subway,30,25-34,Male,Reserved,Delivery,77
+Special Features or Experiences,0.00000,7141.25464,2024Q3,UK,0.00000,Subway London #5,London,JustEat,Subway,30,25-34,Male,Reserved,Delivery,77
+Reservation System,0.00000,7141.25464,2024Q3,UK,0.00000,Subway London #5,London,JustEat,Subway,30,25-34,Male,Reserved,Delivery,77
+Customer Service,3255.91097,0.00000,2024Q2,DE,3255.91097,Chipotle Berlin #63,Berlin,UberEats,Chipotle,19,18-24,Female,Reserved,Delivery,78
+Service Speed,3255.91097,0.00000,2024Q2,DE,0.00000,Chipotle Berlin #63,Berlin,UberEats,Chipotle,19,18-24,Female,Reserved,Delivery,78
+Customer Service,6290.18326,0.00000,2024Q2,DE,6290.18326,KFC Berlin #48,Berlin,RestaurantWebsite,KFC,45,35-45,Female,Reserved,Delivery,79
+Service Speed,6290.18326,0.00000,2024Q2,DE,0.00000,KFC Berlin #48,Berlin,RestaurantWebsite,KFC,45,35-45,Female,Reserved,Delivery,79
+Location & Accessibility,6290.18326,0.00000,2024Q2,DE,0.00000,KFC Berlin #48,Berlin,RestaurantWebsite,KFC,45,35-45,Female,Reserved,Delivery,79
+Food Quality,0.00000,4239.78546,2024Q2,FR,4239.78546,KFC Paris #61,Paris,UberEats,KFC,58,55-64,Male,Reserved,Delivery,80
+Service Speed,7837.77708,0.00000,2024Q3,FR,7837.77708,Subway Paris #97,Paris,UberEats,Subway,39,35-45,Male,Reserved,Delivery,81
+Special Features or Experiences,7837.77708,0.00000,2024Q3,FR,0.00000,Subway Paris #97,Paris,UberEats,Subway,39,35-45,Male,Reserved,Delivery,81
+Ambience,7837.77708,0.00000,2024Q3,FR,0.00000,Subway Paris #97,Paris,UberEats,Subway,39,35-45,Male,Reserved,Delivery,81
+Food Quality,7837.77708,0.00000,2024Q3,FR,0.00000,Subway Paris #97,Paris,UberEats,Subway,39,35-45,Male,Reserved,Delivery,81
+Location & Accessibility,7017.03061,0.00000,2024Q3,DE,7017.03061,McDonald's Berlin #16,Berlin,JustEat,McDonald's,61,55-64,Female,Reserved,Delivery,82
+Location & Accessibility,6999.55146,0.00000,2024Q3,IT,6999.55146,McDonald's Rome #91,Rome,Deliveroo,McDonald's,57,55-64,Male,Reserved,Delivery,83
+Special Features or Experiences,6999.55146,0.00000,2024Q3,IT,0.00000,McDonald's Rome #91,Rome,Deliveroo,McDonald's,57,55-64,Male,Reserved,Delivery,83
+Location & Accessibility,0.00000,3912.31353,2024Q2,US,3912.31353,Chipotle New York #94,New York,Deliveroo,Chipotle,59,55-64,Female,Reserved,Delivery,84
+Reservation System,0.00000,3912.31353,2024Q2,US,0.00000,Chipotle New York #94,New York,Deliveroo,Chipotle,59,55-64,Female,Reserved,Delivery,84
+Pricing,0.00000,7247.25117,2024Q2,US,7247.25117,Chipotle New York #84,New York,Deliveroo,Chipotle,34,25-34,Male,Reserved,Delivery,85
+Service Speed,0.00000,7247.25117,2024Q2,US,0.00000,Chipotle New York #84,New York,Deliveroo,Chipotle,34,25-34,Male,Reserved,Delivery,85
+Menu Variety,0.00000,7247.25117,2024Q2,US,0.00000,Chipotle New York #84,New York,Deliveroo,Chipotle,34,25-34,Male,Reserved,Delivery,85
+Food Quality,0.00000,7247.25117,2024Q2,US,0.00000,Chipotle New York #84,New York,Deliveroo,Chipotle,34,25-34,Male,Reserved,Delivery,85
+Reservation System,9593.29736,0.00000,2024Q2,FR,9593.29736,Subway Paris #20,Paris,RestaurantWebsite,Subway,41,35-45,Male,Reserved,Delivery,86
+Hygiene & Cleanliness,9593.29736,0.00000,2024Q2,FR,0.00000,Subway Paris #20,Paris,RestaurantWebsite,Subway,41,35-45,Male,Reserved,Delivery,86
+Pricing,4606.82655,0.00000,2024Q3,IT,4606.82655,Burger King Rome #28,Rome,JustEat,Burger King,29,25-34,Female,Reserved,Delivery,87
+Hygiene & Cleanliness,2512.49784,0.00000,2024Q3,UK,2512.49784,KFC London #97,London,OpenTable,KFC,66,65+,Male,Reserved,Eat In,88
+Reservation System,2512.49784,0.00000,2024Q3,UK,0.00000,KFC London #97,London,OpenTable,KFC,66,65+,Male,Reserved,Eat In,88
+Service Speed,7083.69442,0.00000,2024Q2,UK,7083.69442,Chipotle London #27,London,JustEat,Chipotle,89,65+,Female,Reserved,Delivery,89
+Reservation System,7083.69442,0.00000,2024Q2,UK,0.00000,Chipotle London #27,London,JustEat,Chipotle,89,65+,Female,Reserved,Delivery,89
+Hygiene & Cleanliness,7083.69442,0.00000,2024Q2,UK,0.00000,Chipotle London #27,London,JustEat,Chipotle,89,65+,Female,Reserved,Delivery,89
+Ambience,7083.69442,0.00000,2024Q2,UK,0.00000,Chipotle London #27,London,JustEat,Chipotle,89,65+,Female,Reserved,Delivery,89
+Location & Accessibility,4184.80396,0.00000,2024Q3,DE,4184.80396,Burger King Berlin #6,Berlin,UberEats,Burger King,89,65+,Male,Reserved,Delivery,90
+Food Quality,4184.80396,0.00000,2024Q3,DE,0.00000,Burger King Berlin #6,Berlin,UberEats,Burger King,89,65+,Male,Reserved,Delivery,90
+Reservation System,4184.80396,0.00000,2024Q3,DE,0.00000,Burger King Berlin #6,Berlin,UberEats,Burger King,89,65+,Male,Reserved,Delivery,90
+Special Features or Experiences,4184.80396,0.00000,2024Q3,DE,0.00000,Burger King Berlin #6,Berlin,UberEats,Burger King,89,65+,Male,Reserved,Delivery,90
+Service Speed,4499.62628,0.00000,2024Q2,UK,4499.62628,KFC London #62,London,Deliveroo,KFC,27,25-34,Male,Reserved,Delivery,91
+Food Quality,4408.30269,0.00000,2024Q3,IT,4408.30269,Subway Rome #46,Rome,OpenTable,Subway,34,25-34,Male,Reserved,Eat In,92
+Service Speed,4408.30269,0.00000,2024Q3,IT,0.00000,Subway Rome #46,Rome,OpenTable,Subway,34,25-34,Male,Reserved,Eat In,92
+Reservation System,5280.31480,0.00000,2024Q3,UK,5280.31480,KFC London #60,London,OpenTable,KFC,63,55-64,Female,Reserved,Eat In,93
+Menu Variety,5280.31480,0.00000,2024Q3,UK,0.00000,KFC London #60,London,OpenTable,KFC,63,55-64,Female,Reserved,Eat In,93
+Hygiene & Cleanliness,0.00000,2733.87354,2024Q3,US,2733.87354,McDonald's New York #30,New York,JustEat,McDonald's,19,18-24,Female,Reserved,Delivery,94
+Ambience,0.00000,2733.87354,2024Q3,US,0.00000,McDonald's New York #30,New York,JustEat,McDonald's,19,18-24,Female,Reserved,Delivery,94
+Customer Service,0.00000,2733.87354,2024Q3,US,0.00000,McDonald's New York #30,New York,JustEat,McDonald's,19,18-24,Female,Reserved,Delivery,94
+Special Features or Experiences,0.00000,2733.87354,2024Q3,US,0.00000,McDonald's New York #30,New York,JustEat,McDonald's,19,18-24,Female,Reserved,Delivery,94
+Food Quality,5257.22644,0.00000,2024Q3,US,5257.22644,McDonald's New York #83,New York,JustEat,McDonald's,21,18-24,Male,Reserved,Delivery,95
+Reservation System,5257.22644,0.00000,2024Q3,US,0.00000,McDonald's New York #83,New York,JustEat,McDonald's,21,18-24,Male,Reserved,Delivery,95
+Location & Accessibility,5257.22644,0.00000,2024Q3,US,0.00000,McDonald's New York #83,New York,JustEat,McDonald's,21,18-24,Male,Reserved,Delivery,95
+Location & Accessibility,2954.01164,0.00000,2024Q3,ES,2954.01164,Subway Madrid #19,Madrid,RestaurantWebsite,Subway,24,18-24,Female,Reserved,Delivery,96
+Food Quality,2954.01164,0.00000,2024Q3,ES,0.00000,Subway Madrid #19,Madrid,RestaurantWebsite,Subway,24,18-24,Female,Reserved,Delivery,96
+Special Features or Experiences,2954.01164,0.00000,2024Q3,ES,0.00000,Subway Madrid #19,Madrid,RestaurantWebsite,Subway,24,18-24,Female,Reserved,Delivery,96
+Menu Variety,0.00000,2478.90497,2024Q2,US,2478.90497,Subway New York #68,New York,Deliveroo,Subway,80,65+,Male,Reserved,Delivery,97
+Reservation System,0.00000,2478.90497,2024Q2,US,0.00000,Subway New York #68,New York,Deliveroo,Subway,80,65+,Male,Reserved,Delivery,97
+Special Features or Experiences,0.00000,1348.09866,2024Q2,ES,1348.09866,KFC Madrid #36,Madrid,RestaurantWebsite,KFC,36,35-45,Female,Walk-In,Takeout,98
+Special Features or Experiences,0.00000,1457.25127,2024Q3,US,1457.25127,McDonald's New York #92,New York,UberEats,McDonald's,25,25-34,Male,Reserved,Delivery,99
+Location & Accessibility,0.00000,1457.25127,2024Q3,US,0.00000,McDonald's New York #92,New York,UberEats,McDonald's,25,25-34,Male,Reserved,Delivery,99
+Menu Variety,0.00000,1457.25127,2024Q3,US,0.00000,McDonald's New York #92,New York,UberEats,McDonald's,25,25-34,Male,Reserved,Delivery,99
+Special Features or Experiences,3595.55886,0.00000,2024Q2,ES,3595.55886,Burger King Madrid #27,Madrid,RestaurantWebsite,Burger King,87,65+,Female,Walk-In,Takeout,100
+Location & Accessibility,3595.55886,0.00000,2024Q2,ES,0.00000,Burger King Madrid #27,Madrid,RestaurantWebsite,Burger King,87,65+,Female,Walk-In,Takeout,100
+Ambience,3595.55886,0.00000,2024Q2,ES,0.00000,Burger King Madrid #27,Madrid,RestaurantWebsite,Burger King,87,65+,Female,Walk-In,Takeout,100
+Customer Service,3595.55886,0.00000,2024Q2,ES,0.00000,Burger King Madrid #27,Madrid,RestaurantWebsite,Burger King,87,65+,Female,Walk-In,Takeout,100
+Pricing,6498.81410,0.00000,2024Q3,US,6498.81410,KFC New York #52,New York,Deliveroo,KFC,29,25-34,Male,Reserved,Delivery,101
+Menu Variety,1421.33373,0.00000,2024Q2,DE,1421.33373,Burger King Berlin #95,Berlin,RestaurantWebsite,Burger King,87,65+,Male,Walk-In,Takeout,102
+Customer Service,1421.33373,0.00000,2024Q2,DE,0.00000,Burger King Berlin #95,Berlin,RestaurantWebsite,Burger King,87,65+,Male,Walk-In,Takeout,102
+Reservation System,0.00000,1582.07682,2024Q3,FR,1582.07682,Chipotle Paris #74,Paris,JustEat,Chipotle,57,55-64,Male,Reserved,Delivery,103
+Customer Service,0.00000,1582.07682,2024Q3,FR,0.00000,Chipotle Paris #74,Paris,JustEat,Chipotle,57,55-64,Male,Reserved,Delivery,103
+Hygiene & Cleanliness,8132.54668,0.00000,2024Q2,FR,8132.54668,Burger King Paris #3,Paris,JustEat,Burger King,20,18-24,Male,Reserved,Delivery,104
+Food Quality,8132.54668,0.00000,2024Q2,FR,0.00000,Burger King Paris #3,Paris,JustEat,Burger King,20,18-24,Male,Reserved,Delivery,104
+Customer Service,0.00000,6422.92912,2024Q2,UK,6422.92912,McDonald's London #85,London,OpenTable,McDonald's,60,55-64,Male,Reserved,Eat In,105
+Hygiene & Cleanliness,0.00000,6422.92912,2024Q2,UK,0.00000,McDonald's London #85,London,OpenTable,McDonald's,60,55-64,Male,Reserved,Eat In,105
+Pricing,0.00000,6422.92912,2024Q2,UK,0.00000,McDonald's London #85,London,OpenTable,McDonald's,60,55-64,Male,Reserved,Eat In,105
+Reservation System,0.00000,6422.92912,2024Q2,UK,0.00000,McDonald's London #85,London,OpenTable,McDonald's,60,55-64,Male,Reserved,Eat In,105
+Pricing,8403.48081,0.00000,2024Q3,IT,8403.48081,McDonald's Rome #79,Rome,Deliveroo,McDonald's,57,55-64,Female,Reserved,Delivery,106
+Hygiene & Cleanliness,8403.48081,0.00000,2024Q3,IT,0.00000,McDonald's Rome #79,Rome,Deliveroo,McDonald's,57,55-64,Female,Reserved,Delivery,106
+Hygiene & Cleanliness,0.00000,6713.26825,2024Q3,UK,6713.26825,McDonald's London #34,London,RestaurantWebsite,McDonald's,39,35-45,Male,Walk-In,Eat In,107
+Ambience,2036.16278,0.00000,2024Q2,UK,2036.16278,Subway London #68,London,OpenTable,Subway,84,65+,Male,Reserved,Eat In,108
+Location & Accessibility,2036.16278,0.00000,2024Q2,UK,0.00000,Subway London #68,London,OpenTable,Subway,84,65+,Male,Reserved,Eat In,108
+Food Quality,2036.16278,0.00000,2024Q2,UK,0.00000,Subway London #68,London,OpenTable,Subway,84,65+,Male,Reserved,Eat In,108
+Pricing,2036.16278,0.00000,2024Q2,UK,0.00000,Subway London #68,London,OpenTable,Subway,84,65+,Male,Reserved,Eat In,108
+Menu Variety,0.00000,5396.62441,2024Q2,IT,5396.62441,Burger King Rome #38,Rome,RestaurantWebsite,Burger King,87,65+,Male,Reserved,Eat In,109
+Pricing,3151.94627,0.00000,2024Q3,US,3151.94627,McDonald's New York #6,New York,UberEats,McDonald's,56,55-64,Female,Reserved,Delivery,110
+Reservation System,3624.36494,0.00000,2024Q2,IT,3624.36494,KFC Rome #14,Rome,RestaurantWebsite,KFC,37,35-45,Male,Walk-In,Takeout,111
+Hygiene & Cleanliness,3982.38959,0.00000,2024Q3,ES,3982.38959,KFC Madrid #28,Madrid,RestaurantWebsite,KFC,33,25-34,Male,Walk-In,Takeout,112
+Ambience,3982.38959,0.00000,2024Q3,ES,0.00000,KFC Madrid #28,Madrid,RestaurantWebsite,KFC,33,25-34,Male,Walk-In,Takeout,112
+Food Quality,5535.62253,0.00000,2024Q3,FR,5535.62253,KFC Paris #38,Paris,OpenTable,KFC,86,65+,Female,Reserved,Eat In,113
+Reservation System,5535.62253,0.00000,2024Q3,FR,0.00000,KFC Paris #38,Paris,OpenTable,KFC,86,65+,Female,Reserved,Eat In,113
+Hygiene & Cleanliness,5535.62253,0.00000,2024Q3,FR,0.00000,KFC Paris #38,Paris,OpenTable,KFC,86,65+,Female,Reserved,Eat In,113
+Service Speed,5535.62253,0.00000,2024Q3,FR,0.00000,KFC Paris #38,Paris,OpenTable,KFC,86,65+,Female,Reserved,Eat In,113
+Reservation System,8279.00063,0.00000,2024Q2,FR,8279.00063,Burger King Paris #9,Paris,Deliveroo,Burger King,23,18-24,Male,Reserved,Delivery,114
+Customer Service,8279.00063,0.00000,2024Q2,FR,0.00000,Burger King Paris #9,Paris,Deliveroo,Burger King,23,18-24,Male,Reserved,Delivery,114
+Pricing,8279.00063,0.00000,2024Q2,FR,0.00000,Burger King Paris #9,Paris,Deliveroo,Burger King,23,18-24,Male,Reserved,Delivery,114
+Ambience,8279.00063,0.00000,2024Q2,FR,0.00000,Burger King Paris #9,Paris,Deliveroo,Burger King,23,18-24,Male,Reserved,Delivery,114
+Pricing,4644.09141,0.00000,2024Q2,UK,4644.09141,Burger King London #86,London,RestaurantWebsite,Burger King,29,25-34,Male,Walk-In,Eat In,115
+Ambience,4644.09141,0.00000,2024Q2,UK,0.00000,Burger King London #86,London,RestaurantWebsite,Burger King,29,25-34,Male,Walk-In,Eat In,115
+Special Features or Experiences,4644.09141,0.00000,2024Q2,UK,0.00000,Burger King London #86,London,RestaurantWebsite,Burger King,29,25-34,Male,Walk-In,Eat In,115
+Menu Variety,4644.09141,0.00000,2024Q2,UK,0.00000,Burger King London #86,London,RestaurantWebsite,Burger King,29,25-34,Male,Walk-In,Eat In,115
+Food Quality,4975.51703,0.00000,2024Q3,US,4975.51703,Chipotle New York #19,New York,OpenTable,Chipotle,18,18-24,Male,Reserved,Eat In,116
+Menu Variety,4975.51703,0.00000,2024Q3,US,0.00000,Chipotle New York #19,New York,OpenTable,Chipotle,18,18-24,Male,Reserved,Eat In,116
+Pricing,4975.51703,0.00000,2024Q3,US,0.00000,Chipotle New York #19,New York,OpenTable,Chipotle,18,18-24,Male,Reserved,Eat In,116
+Food Quality,0.00000,3746.56402,2024Q2,US,3746.56402,Subway New York #92,New York,UberEats,Subway,56,55-64,Male,Reserved,Delivery,117
+Menu Variety,1385.04248,0.00000,2024Q2,IT,1385.04248,KFC Rome #61,Rome,JustEat,KFC,31,25-34,Male,Reserved,Delivery,118
+Pricing,1385.04248,0.00000,2024Q2,IT,0.00000,KFC Rome #61,Rome,JustEat,KFC,31,25-34,Male,Reserved,Delivery,118
+Location & Accessibility,1385.04248,0.00000,2024Q2,IT,0.00000,KFC Rome #61,Rome,JustEat,KFC,31,25-34,Male,Reserved,Delivery,118
+Menu Variety,3206.97066,0.00000,2024Q3,DE,3206.97066,Subway Berlin #24,Berlin,RestaurantWebsite,Subway,41,35-45,Male,Reserved,Delivery,119
+Special Features or Experiences,3206.97066,0.00000,2024Q3,DE,0.00000,Subway Berlin #24,Berlin,RestaurantWebsite,Subway,41,35-45,Male,Reserved,Delivery,119
+Customer Service,3206.97066,0.00000,2024Q3,DE,0.00000,Subway Berlin #24,Berlin,RestaurantWebsite,Subway,41,35-45,Male,Reserved,Delivery,119
+Reservation System,3206.97066,0.00000,2024Q3,DE,0.00000,Subway Berlin #24,Berlin,RestaurantWebsite,Subway,41,35-45,Male,Reserved,Delivery,119
+Service Speed,0.00000,4184.99096,2024Q3,FR,4184.99096,KFC Paris #57,Paris,Deliveroo,KFC,22,18-24,Female,Reserved,Delivery,120
+Pricing,0.00000,4184.99096,2024Q3,FR,0.00000,KFC Paris #57,Paris,Deliveroo,KFC,22,18-24,Female,Reserved,Delivery,120
+Location & Accessibility,0.00000,4184.99096,2024Q3,FR,0.00000,KFC Paris #57,Paris,Deliveroo,KFC,22,18-24,Female,Reserved,Delivery,120
+Service Speed,0.00000,2689.29611,2024Q3,UK,2689.29611,KFC London #66,London,UberEats,KFC,35,35-45,Female,Reserved,Delivery,121
+Location & Accessibility,0.00000,2689.29611,2024Q3,UK,0.00000,KFC London #66,London,UberEats,KFC,35,35-45,Female,Reserved,Delivery,121
+Food Quality,0.00000,5166.30549,2024Q3,DE,5166.30549,Subway Berlin #71,Berlin,OpenTable,Subway,18,18-24,Male,Reserved,Eat In,122
+Service Speed,6705.85430,0.00000,2024Q2,UK,6705.85430,Burger King London #33,London,Deliveroo,Burger King,66,65+,Female,Reserved,Delivery,123
+Service Speed,7450.86212,0.00000,2024Q2,FR,7450.86212,Burger King Paris #44,Paris,JustEat,Burger King,22,18-24,Male,Reserved,Delivery,124
+Customer Service,7450.86212,0.00000,2024Q2,FR,0.00000,Burger King Paris #44,Paris,JustEat,Burger King,22,18-24,Male,Reserved,Delivery,124
+Location & Accessibility,7450.86212,0.00000,2024Q2,FR,0.00000,Burger King Paris #44,Paris,JustEat,Burger King,22,18-24,Male,Reserved,Delivery,124
+Reservation System,7450.86212,0.00000,2024Q2,FR,0.00000,Burger King Paris #44,Paris,JustEat,Burger King,22,18-24,Male,Reserved,Delivery,124
+Service Speed,4988.91509,0.00000,2024Q2,US,4988.91509,Chipotle New York #93,New York,RestaurantWebsite,Chipotle,62,55-64,Female,Walk-In,Takeout,125
+Location & Accessibility,3871.70413,0.00000,2024Q3,US,3871.70413,Burger King New York #21,New York,Deliveroo,Burger King,23,18-24,Male,Reserved,Delivery,126
+Food Quality,3871.70413,0.00000,2024Q3,US,0.00000,Burger King New York #21,New York,Deliveroo,Burger King,23,18-24,Male,Reserved,Delivery,126
+Pricing,3871.70413,0.00000,2024Q3,US,0.00000,Burger King New York #21,New York,Deliveroo,Burger King,23,18-24,Male,Reserved,Delivery,126
+Customer Service,0.00000,1537.36458,2024Q2,IT,1537.36458,KFC Rome #18,Rome,JustEat,KFC,83,65+,Male,Reserved,Delivery,127
+Customer Service,4612.73624,0.00000,2024Q3,ES,4612.73624,McDonald's Madrid #81,Madrid,RestaurantWebsite,McDonald's,45,35-45,Male,Reserved,Delivery,128
+Food Quality,4612.73624,0.00000,2024Q3,ES,0.00000,McDonald's Madrid #81,Madrid,RestaurantWebsite,McDonald's,45,35-45,Male,Reserved,Delivery,128
+Location & Accessibility,2187.83810,0.00000,2024Q3,UK,2187.83810,McDonald's London #94,London,OpenTable,McDonald's,61,55-64,Female,Reserved,Eat In,129
+Service Speed,2213.77019,0.00000,2024Q3,FR,2213.77019,KFC Paris #49,Paris,UberEats,KFC,28,25-34,Female,Reserved,Delivery,130
+Food Quality,2213.77019,0.00000,2024Q3,FR,0.00000,KFC Paris #49,Paris,UberEats,KFC,28,25-34,Female,Reserved,Delivery,130
+Special Features or Experiences,2213.77019,0.00000,2024Q3,FR,0.00000,KFC Paris #49,Paris,UberEats,KFC,28,25-34,Female,Reserved,Delivery,130
+Location & Accessibility,2213.77019,0.00000,2024Q3,FR,0.00000,KFC Paris #49,Paris,UberEats,KFC,28,25-34,Female,Reserved,Delivery,130
+Special Features or Experiences,3005.86968,0.00000,2024Q2,FR,3005.86968,Burger King Paris #89,Paris,RestaurantWebsite,Burger King,27,25-34,Male,Reserved,Delivery,131
+Location & Accessibility,3005.86968,0.00000,2024Q2,FR,0.00000,Burger King Paris #89,Paris,RestaurantWebsite,Burger King,27,25-34,Male,Reserved,Delivery,131
+Hygiene & Cleanliness,3005.86968,0.00000,2024Q2,FR,0.00000,Burger King Paris #89,Paris,RestaurantWebsite,Burger King,27,25-34,Male,Reserved,Delivery,131
+Pricing,3005.86968,0.00000,2024Q2,FR,0.00000,Burger King Paris #89,Paris,RestaurantWebsite,Burger King,27,25-34,Male,Reserved,Delivery,131
+Location & Accessibility,4626.25488,0.00000,2024Q2,FR,4626.25488,McDonald's Paris #63,Paris,UberEats,McDonald's,42,35-45,Female,Reserved,Delivery,132
+Menu Variety,4626.25488,0.00000,2024Q2,FR,0.00000,McDonald's Paris #63,Paris,UberEats,McDonald's,42,35-45,Female,Reserved,Delivery,132
+Special Features or Experiences,4626.25488,0.00000,2024Q2,FR,0.00000,McDonald's Paris #63,Paris,UberEats,McDonald's,42,35-45,Female,Reserved,Delivery,132
+Service Speed,4626.25488,0.00000,2024Q2,FR,0.00000,McDonald's Paris #63,Paris,UberEats,McDonald's,42,35-45,Female,Reserved,Delivery,132
+Food Quality,7087.92216,0.00000,2024Q3,ES,7087.92216,McDonald's Madrid #85,Madrid,UberEats,McDonald's,36,35-45,Female,Reserved,Delivery,133
+Special Features or Experiences,7087.92216,0.00000,2024Q3,ES,0.00000,McDonald's Madrid #85,Madrid,UberEats,McDonald's,36,35-45,Female,Reserved,Delivery,133
+Hygiene & Cleanliness,7087.92216,0.00000,2024Q3,ES,0.00000,McDonald's Madrid #85,Madrid,UberEats,McDonald's,36,35-45,Female,Reserved,Delivery,133
+Menu Variety,7087.92216,0.00000,2024Q3,ES,0.00000,McDonald's Madrid #85,Madrid,UberEats,McDonald's,36,35-45,Female,Reserved,Delivery,133
+Pricing,0.00000,4864.51802,2024Q3,UK,4864.51802,Subway London #9,London,UberEats,Subway,63,55-64,Male,Reserved,Delivery,134
+Hygiene & Cleanliness,0.00000,4864.51802,2024Q3,UK,0.00000,Subway London #9,London,UberEats,Subway,63,55-64,Male,Reserved,Delivery,134
+Reservation System,0.00000,4864.51802,2024Q3,UK,0.00000,Subway London #9,London,UberEats,Subway,63,55-64,Male,Reserved,Delivery,134
+Customer Service,0.00000,2426.72611,2024Q3,FR,2426.72611,KFC Paris #1,Paris,RestaurantWebsite,KFC,31,25-34,Male,Walk-In,Eat In,135
+Pricing,2754.51876,0.00000,2024Q2,DE,2754.51876,Subway Berlin #72,Berlin,RestaurantWebsite,Subway,75,65+,Male,Reserved,Delivery,136
+Customer Service,2754.51876,0.00000,2024Q2,DE,0.00000,Subway Berlin #72,Berlin,RestaurantWebsite,Subway,75,65+,Male,Reserved,Delivery,136
+Food Quality,2754.51876,0.00000,2024Q2,DE,0.00000,Subway Berlin #72,Berlin,RestaurantWebsite,Subway,75,65+,Male,Reserved,Delivery,136
+Special Features or Experiences,1466.51621,0.00000,2024Q3,IT,1466.51621,Burger King Rome #23,Rome,OpenTable,Burger King,31,25-34,Male,Reserved,Eat In,137
+Menu Variety,1466.51621,0.00000,2024Q3,IT,0.00000,Burger King Rome #23,Rome,OpenTable,Burger King,31,25-34,Male,Reserved,Eat In,137
+Location & Accessibility,1466.51621,0.00000,2024Q3,IT,0.00000,Burger King Rome #23,Rome,OpenTable,Burger King,31,25-34,Male,Reserved,Eat In,137
+Hygiene & Cleanliness,1063.27176,0.00000,2024Q2,ES,1063.27176,Subway Madrid #34,Madrid,JustEat,Subway,23,18-24,Female,Reserved,Delivery,138
+Ambience,0.00000,1765.74889,2024Q2,IT,1765.74889,Chipotle Rome #99,Rome,Deliveroo,Chipotle,26,25-34,Female,Reserved,Delivery,139
+Service Speed,0.00000,1765.74889,2024Q2,IT,0.00000,Chipotle Rome #99,Rome,Deliveroo,Chipotle,26,25-34,Female,Reserved,Delivery,139
+Reservation System,0.00000,1765.74889,2024Q2,IT,0.00000,Chipotle Rome #99,Rome,Deliveroo,Chipotle,26,25-34,Female,Reserved,Delivery,139
+Hygiene & Cleanliness,0.00000,1765.74889,2024Q2,IT,0.00000,Chipotle Rome #99,Rome,Deliveroo,Chipotle,26,25-34,Female,Reserved,Delivery,139
+Special Features or Experiences,0.00000,1917.13182,2024Q3,UK,1917.13182,KFC London #82,London,RestaurantWebsite,KFC,66,65+,Male,Reserved,Delivery,140
+Ambience,5830.42443,0.00000,2024Q2,US,5830.42443,Subway New York #86,New York,Deliveroo,Subway,18,18-24,Male,Reserved,Delivery,141
+Location & Accessibility,5830.42443,0.00000,2024Q2,US,0.00000,Subway New York #86,New York,Deliveroo,Subway,18,18-24,Male,Reserved,Delivery,141
+Ambience,1558.29317,0.00000,2024Q3,DE,1558.29317,Subway Berlin #46,Berlin,Deliveroo,Subway,45,35-45,Male,Reserved,Delivery,142
+Food Quality,1558.29317,0.00000,2024Q3,DE,0.00000,Subway Berlin #46,Berlin,Deliveroo,Subway,45,35-45,Male,Reserved,Delivery,142
+Food Quality,4714.88747,0.00000,2024Q3,ES,4714.88747,Subway Madrid #84,Madrid,JustEat,Subway,20,18-24,Female,Reserved,Delivery,143
+Customer Service,4714.88747,0.00000,2024Q3,ES,0.00000,Subway Madrid #84,Madrid,JustEat,Subway,20,18-24,Female,Reserved,Delivery,143
+Location & Accessibility,4714.88747,0.00000,2024Q3,ES,0.00000,Subway Madrid #84,Madrid,JustEat,Subway,20,18-24,Female,Reserved,Delivery,143
+Ambience,4714.88747,0.00000,2024Q3,ES,0.00000,Subway Madrid #84,Madrid,JustEat,Subway,20,18-24,Female,Reserved,Delivery,143
+Customer Service,0.00000,7688.87105,2024Q2,ES,7688.87105,McDonald's Madrid #44,Madrid,UberEats,McDonald's,40,35-45,Female,Reserved,Delivery,144
+Reservation System,0.00000,7688.87105,2024Q2,ES,0.00000,McDonald's Madrid #44,Madrid,UberEats,McDonald's,40,35-45,Female,Reserved,Delivery,144
+Location & Accessibility,0.00000,7688.87105,2024Q2,ES,0.00000,McDonald's Madrid #44,Madrid,UberEats,McDonald's,40,35-45,Female,Reserved,Delivery,144
+Menu Variety,8635.62090,0.00000,2024Q3,UK,8635.62090,KFC London #88,London,RestaurantWebsite,KFC,87,65+,Female,Walk-In,Takeout,145
+Reservation System,8635.62090,0.00000,2024Q3,UK,0.00000,KFC London #88,London,RestaurantWebsite,KFC,87,65+,Female,Walk-In,Takeout,145
+Hygiene & Cleanliness,8635.62090,0.00000,2024Q3,UK,0.00000,KFC London #88,London,RestaurantWebsite,KFC,87,65+,Female,Walk-In,Takeout,145
+Menu Variety,8494.89956,0.00000,2024Q2,FR,8494.89956,Chipotle Paris #89,Paris,JustEat,Chipotle,26,25-34,Female,Reserved,Delivery,146
+Ambience,8494.89956,0.00000,2024Q2,FR,0.00000,Chipotle Paris #89,Paris,JustEat,Chipotle,26,25-34,Female,Reserved,Delivery,146
+Hygiene & Cleanliness,0.00000,3477.26442,2024Q2,ES,3477.26442,Subway Madrid #60,Madrid,OpenTable,Subway,27,25-34,Female,Reserved,Eat In,147
+Food Quality,0.00000,3477.26442,2024Q2,ES,0.00000,Subway Madrid #60,Madrid,OpenTable,Subway,27,25-34,Female,Reserved,Eat In,147
+Special Features or Experiences,0.00000,3477.26442,2024Q2,ES,0.00000,Subway Madrid #60,Madrid,OpenTable,Subway,27,25-34,Female,Reserved,Eat In,147
+Service Speed,0.00000,3477.26442,2024Q2,ES,0.00000,Subway Madrid #60,Madrid,OpenTable,Subway,27,25-34,Female,Reserved,Eat In,147
+Hygiene & Cleanliness,0.00000,8625.50821,2024Q3,IT,8625.50821,Chipotle Rome #20,Rome,JustEat,Chipotle,77,65+,Male,Reserved,Delivery,148
+Menu Variety,0.00000,8625.50821,2024Q3,IT,0.00000,Chipotle Rome #20,Rome,JustEat,Chipotle,77,65+,Male,Reserved,Delivery,148
+Ambience,0.00000,8625.50821,2024Q3,IT,0.00000,Chipotle Rome #20,Rome,JustEat,Chipotle,77,65+,Male,Reserved,Delivery,148
+Customer Service,0.00000,8625.50821,2024Q3,IT,0.00000,Chipotle Rome #20,Rome,JustEat,Chipotle,77,65+,Male,Reserved,Delivery,148
+Menu Variety,8535.57971,0.00000,2024Q2,DE,8535.57971,Subway Berlin #25,Berlin,Deliveroo,Subway,27,25-34,Female,Reserved,Delivery,149
+Location & Accessibility,8535.57971,0.00000,2024Q2,DE,0.00000,Subway Berlin #25,Berlin,Deliveroo,Subway,27,25-34,Female,Reserved,Delivery,149
+Hygiene & Cleanliness,8535.57971,0.00000,2024Q2,DE,0.00000,Subway Berlin #25,Berlin,Deliveroo,Subway,27,25-34,Female,Reserved,Delivery,149
+Customer Service,8535.57971,0.00000,2024Q2,DE,0.00000,Subway Berlin #25,Berlin,Deliveroo,Subway,27,25-34,Female,Reserved,Delivery,149
+Hygiene & Cleanliness,7445.96613,0.00000,2024Q3,IT,7445.96613,Subway Rome #47,Rome,JustEat,Subway,89,65+,Male,Reserved,Delivery,150
+Reservation System,7445.96613,0.00000,2024Q3,IT,0.00000,Subway Rome #47,Rome,JustEat,Subway,89,65+,Male,Reserved,Delivery,150
+Customer Service,0.00000,5471.38796,2024Q3,DE,5471.38796,Chipotle Berlin #90,Berlin,OpenTable,Chipotle,37,35-45,Female,Reserved,Eat In,151
+Reservation System,0.00000,7096.79138,2024Q2,ES,7096.79138,Subway Madrid #68,Madrid,RestaurantWebsite,Subway,18,18-24,Female,Reserved,Delivery,152
+Ambience,8773.45303,0.00000,2024Q2,FR,8773.45303,Subway Paris #72,Paris,OpenTable,Subway,28,25-34,Female,Reserved,Eat In,153
+Pricing,8773.45303,0.00000,2024Q2,FR,0.00000,Subway Paris #72,Paris,OpenTable,Subway,28,25-34,Female,Reserved,Eat In,153
+Reservation System,8149.98179,0.00000,2024Q2,US,8149.98179,Chipotle New York #58,New York,RestaurantWebsite,Chipotle,55,55-64,Female,Walk-In,Takeout,154
+Service Speed,8149.98179,0.00000,2024Q2,US,0.00000,Chipotle New York #58,New York,RestaurantWebsite,Chipotle,55,55-64,Female,Walk-In,Takeout,154
+Special Features or Experiences,8643.95972,0.00000,2024Q2,DE,8643.95972,Chipotle Berlin #56,Berlin,UberEats,Chipotle,26,25-34,Male,Reserved,Delivery,155
+Location & Accessibility,4938.00845,0.00000,2024Q3,DE,4938.00845,Burger King Berlin #2,Berlin,RestaurantWebsite,Burger King,71,65+,Female,Walk-In,Eat In,156
+Food Quality,4938.00845,0.00000,2024Q3,DE,0.00000,Burger King Berlin #2,Berlin,RestaurantWebsite,Burger King,71,65+,Female,Walk-In,Eat In,156
+Special Features or Experiences,0.00000,6703.38702,2024Q2,US,6703.38702,KFC New York #13,New York,OpenTable,KFC,63,55-64,Male,Reserved,Eat In,157
+Hygiene & Cleanliness,0.00000,6703.38702,2024Q2,US,0.00000,KFC New York #13,New York,OpenTable,KFC,63,55-64,Male,Reserved,Eat In,157
+Reservation System,0.00000,6703.38702,2024Q2,US,0.00000,KFC New York #13,New York,OpenTable,KFC,63,55-64,Male,Reserved,Eat In,157
+Pricing,0.00000,6703.38702,2024Q2,US,0.00000,KFC New York #13,New York,OpenTable,KFC,63,55-64,Male,Reserved,Eat In,157
+Menu Variety,0.00000,7002.50380,2024Q3,UK,7002.50380,Subway London #9,London,UberEats,Subway,19,18-24,Female,Reserved,Delivery,158
+Location & Accessibility,7158.35014,0.00000,2024Q3,DE,7158.35014,Subway Berlin #93,Berlin,UberEats,Subway,40,35-45,Male,Reserved,Delivery,159
+Reservation System,7158.35014,0.00000,2024Q3,DE,0.00000,Subway Berlin #93,Berlin,UberEats,Subway,40,35-45,Male,Reserved,Delivery,159
+Location & Accessibility,0.00000,8064.61122,2024Q2,IT,8064.61122,Subway Rome #87,Rome,OpenTable,Subway,62,55-64,Female,Reserved,Eat In,160
+Menu Variety,6294.78468,0.00000,2024Q3,UK,6294.78468,KFC London #52,London,UberEats,KFC,79,65+,Female,Reserved,Delivery,161
+Food Quality,6294.78468,0.00000,2024Q3,UK,0.00000,KFC London #52,London,UberEats,KFC,79,65+,Female,Reserved,Delivery,161
+Pricing,6294.78468,0.00000,2024Q3,UK,0.00000,KFC London #52,London,UberEats,KFC,79,65+,Female,Reserved,Delivery,161
+Special Features or Experiences,6294.78468,0.00000,2024Q3,UK,0.00000,KFC London #52,London,UberEats,KFC,79,65+,Female,Reserved,Delivery,161
+Food Quality,4381.41036,0.00000,2024Q3,UK,4381.41036,McDonald's London #57,London,OpenTable,McDonald's,61,55-64,Male,Reserved,Eat In,162
+Hygiene & Cleanliness,0.00000,7302.13012,2024Q3,US,7302.13012,McDonald's New York #21,New York,Deliveroo,McDonald's,63,55-64,Male,Reserved,Delivery,163
+Pricing,8610.67677,0.00000,2024Q3,US,8610.67677,Subway New York #59,New York,JustEat,Subway,77,65+,Female,Reserved,Delivery,164
+Reservation System,8610.67677,0.00000,2024Q3,US,0.00000,Subway New York #59,New York,JustEat,Subway,77,65+,Female,Reserved,Delivery,164
+Food Quality,8610.67677,0.00000,2024Q3,US,0.00000,Subway New York #59,New York,JustEat,Subway,77,65+,Female,Reserved,Delivery,164
+Hygiene & Cleanliness,8610.67677,0.00000,2024Q3,US,0.00000,Subway New York #59,New York,JustEat,Subway,77,65+,Female,Reserved,Delivery,164
+Customer Service,9320.96060,0.00000,2024Q3,US,9320.96060,McDonald's New York #16,New York,JustEat,McDonald's,28,25-34,Male,Reserved,Delivery,165
+Hygiene & Cleanliness,9320.96060,0.00000,2024Q3,US,0.00000,McDonald's New York #16,New York,JustEat,McDonald's,28,25-34,Male,Reserved,Delivery,165
+Service Speed,0.00000,5988.25886,2024Q2,US,5988.25886,KFC New York #54,New York,Deliveroo,KFC,41,35-45,Male,Reserved,Delivery,166
+Reservation System,0.00000,5988.25886,2024Q2,US,0.00000,KFC New York #54,New York,Deliveroo,KFC,41,35-45,Male,Reserved,Delivery,166
+Service Speed,0.00000,6023.23140,2024Q2,DE,6023.23140,McDonald's Berlin #56,Berlin,UberEats,McDonald's,76,65+,Female,Reserved,Delivery,167
+Location & Accessibility,0.00000,6023.23140,2024Q2,DE,0.00000,McDonald's Berlin #56,Berlin,UberEats,McDonald's,76,65+,Female,Reserved,Delivery,167
+Reservation System,4124.08284,0.00000,2024Q3,DE,4124.08284,McDonald's Berlin #71,Berlin,RestaurantWebsite,McDonald's,26,25-34,Male,Reserved,Eat In,168
+Food Quality,4124.08284,0.00000,2024Q3,DE,0.00000,McDonald's Berlin #71,Berlin,RestaurantWebsite,McDonald's,26,25-34,Male,Reserved,Eat In,168
+Customer Service,7807.74317,0.00000,2024Q2,ES,7807.74317,KFC Madrid #49,Madrid,OpenTable,KFC,27,25-34,Female,Reserved,Eat In,169
+Pricing,7807.74317,0.00000,2024Q2,ES,0.00000,KFC Madrid #49,Madrid,OpenTable,KFC,27,25-34,Female,Reserved,Eat In,169
+Menu Variety,7807.74317,0.00000,2024Q2,ES,0.00000,KFC Madrid #49,Madrid,OpenTable,KFC,27,25-34,Female,Reserved,Eat In,169
+Special Features or Experiences,0.00000,6295.60599,2024Q2,US,6295.60599,Burger King New York #24,New York,RestaurantWebsite,Burger King,24,18-24,Female,Walk-In,Eat In,170
+Menu Variety,0.00000,6295.60599,2024Q2,US,0.00000,Burger King New York #24,New York,RestaurantWebsite,Burger King,24,18-24,Female,Walk-In,Eat In,170
+Customer Service,0.00000,6295.60599,2024Q2,US,0.00000,Burger King New York #24,New York,RestaurantWebsite,Burger King,24,18-24,Female,Walk-In,Eat In,170
+Service Speed,0.00000,6295.60599,2024Q2,US,0.00000,Burger King New York #24,New York,RestaurantWebsite,Burger King,24,18-24,Female,Walk-In,Eat In,170
+Food Quality,4521.34284,0.00000,2024Q2,UK,4521.34284,Chipotle London #88,London,Deliveroo,Chipotle,84,65+,Female,Reserved,Delivery,171
+Service Speed,4521.34284,0.00000,2024Q2,UK,0.00000,Chipotle London #88,London,Deliveroo,Chipotle,84,65+,Female,Reserved,Delivery,171
+Special Features or Experiences,4521.34284,0.00000,2024Q2,UK,0.00000,Chipotle London #88,London,Deliveroo,Chipotle,84,65+,Female,Reserved,Delivery,171
+Pricing,4381.43793,0.00000,2024Q2,ES,4381.43793,McDonald's Madrid #97,Madrid,OpenTable,McDonald's,55,55-64,Female,Reserved,Eat In,172
+Ambience,4381.43793,0.00000,2024Q2,ES,0.00000,McDonald's Madrid #97,Madrid,OpenTable,McDonald's,55,55-64,Female,Reserved,Eat In,172
+Ambience,5567.60363,0.00000,2024Q3,ES,5567.60363,Subway Madrid #78,Madrid,OpenTable,Subway,59,55-64,Male,Reserved,Eat In,173
+Location & Accessibility,5567.60363,0.00000,2024Q3,ES,0.00000,Subway Madrid #78,Madrid,OpenTable,Subway,59,55-64,Male,Reserved,Eat In,173
+Food Quality,5567.60363,0.00000,2024Q3,ES,0.00000,Subway Madrid #78,Madrid,OpenTable,Subway,59,55-64,Male,Reserved,Eat In,173
+Pricing,7837.65776,0.00000,2024Q2,FR,7837.65776,KFC Paris #54,Paris,RestaurantWebsite,KFC,84,65+,Female,Walk-In,Takeout,174
+Ambience,7837.65776,0.00000,2024Q2,FR,0.00000,KFC Paris #54,Paris,RestaurantWebsite,KFC,84,65+,Female,Walk-In,Takeout,174
+Special Features or Experiences,7837.65776,0.00000,2024Q2,FR,0.00000,KFC Paris #54,Paris,RestaurantWebsite,KFC,84,65+,Female,Walk-In,Takeout,174
+Location & Accessibility,2009.06032,0.00000,2024Q3,IT,2009.06032,McDonald's Rome #34,Rome,UberEats,McDonald's,37,35-45,Male,Reserved,Delivery,175
+Food Quality,2009.06032,0.00000,2024Q3,IT,0.00000,McDonald's Rome #34,Rome,UberEats,McDonald's,37,35-45,Male,Reserved,Delivery,175
+Customer Service,2009.06032,0.00000,2024Q3,IT,0.00000,McDonald's Rome #34,Rome,UberEats,McDonald's,37,35-45,Male,Reserved,Delivery,175
+Reservation System,2009.06032,0.00000,2024Q3,IT,0.00000,McDonald's Rome #34,Rome,UberEats,McDonald's,37,35-45,Male,Reserved,Delivery,175
+Pricing,5798.02446,0.00000,2024Q3,ES,5798.02446,KFC Madrid #50,Madrid,Deliveroo,KFC,55,55-64,Male,Reserved,Delivery,176
+Reservation System,5798.02446,0.00000,2024Q3,ES,0.00000,KFC Madrid #50,Madrid,Deliveroo,KFC,55,55-64,Male,Reserved,Delivery,176
+Ambience,5798.02446,0.00000,2024Q3,ES,0.00000,KFC Madrid #50,Madrid,Deliveroo,KFC,55,55-64,Male,Reserved,Delivery,176
+Hygiene & Cleanliness,5798.02446,0.00000,2024Q3,ES,0.00000,KFC Madrid #50,Madrid,Deliveroo,KFC,55,55-64,Male,Reserved,Delivery,176
+Customer Service,4934.22401,0.00000,2024Q2,IT,4934.22401,McDonald's Rome #39,Rome,Deliveroo,McDonald's,86,65+,Male,Reserved,Delivery,177
+Food Quality,4934.22401,0.00000,2024Q2,IT,0.00000,McDonald's Rome #39,Rome,Deliveroo,McDonald's,86,65+,Male,Reserved,Delivery,177
+Ambience,4934.22401,0.00000,2024Q2,IT,0.00000,McDonald's Rome #39,Rome,Deliveroo,McDonald's,86,65+,Male,Reserved,Delivery,177
+Special Features or Experiences,0.00000,7213.73938,2024Q3,US,7213.73938,Chipotle New York #100,New York,OpenTable,Chipotle,33,25-34,Female,Reserved,Eat In,178
+Ambience,0.00000,7213.73938,2024Q3,US,0.00000,Chipotle New York #100,New York,OpenTable,Chipotle,33,25-34,Female,Reserved,Eat In,178
+Reservation System,0.00000,7213.73938,2024Q3,US,0.00000,Chipotle New York #100,New York,OpenTable,Chipotle,33,25-34,Female,Reserved,Eat In,178
+Customer Service,0.00000,7213.73938,2024Q3,US,0.00000,Chipotle New York #100,New York,OpenTable,Chipotle,33,25-34,Female,Reserved,Eat In,178
+Service Speed,0.00000,7848.36765,2024Q3,ES,7848.36765,Burger King Madrid #41,Madrid,UberEats,Burger King,32,25-34,Female,Reserved,Delivery,179
+Hygiene & Cleanliness,0.00000,7848.36765,2024Q3,ES,0.00000,Burger King Madrid #41,Madrid,UberEats,Burger King,32,25-34,Female,Reserved,Delivery,179
+Service Speed,0.00000,6650.45804,2024Q3,UK,6650.45804,Burger King London #58,London,JustEat,Burger King,22,18-24,Male,Reserved,Delivery,180
+Pricing,9499.72080,0.00000,2024Q3,FR,9499.72080,Chipotle Paris #21,Paris,OpenTable,Chipotle,43,35-45,Male,Reserved,Eat In,181
+Ambience,9499.72080,0.00000,2024Q3,FR,0.00000,Chipotle Paris #21,Paris,OpenTable,Chipotle,43,35-45,Male,Reserved,Eat In,181
+Hygiene & Cleanliness,0.00000,1650.94511,2024Q3,FR,1650.94511,KFC Paris #9,Paris,RestaurantWebsite,KFC,55,55-64,Male,Walk-In,Eat In,182
+Food Quality,0.00000,1650.94511,2024Q3,FR,0.00000,KFC Paris #9,Paris,RestaurantWebsite,KFC,55,55-64,Male,Walk-In,Eat In,182
+Customer Service,0.00000,1650.94511,2024Q3,FR,0.00000,KFC Paris #9,Paris,RestaurantWebsite,KFC,55,55-64,Male,Walk-In,Eat In,182
+Location & Accessibility,0.00000,1650.94511,2024Q3,FR,0.00000,KFC Paris #9,Paris,RestaurantWebsite,KFC,55,55-64,Male,Walk-In,Eat In,182
+Hygiene & Cleanliness,7639.59217,0.00000,2024Q2,UK,7639.59217,Burger King London #45,London,UberEats,Burger King,31,25-34,Female,Reserved,Delivery,183
+Service Speed,7639.59217,0.00000,2024Q2,UK,0.00000,Burger King London #45,London,UberEats,Burger King,31,25-34,Female,Reserved,Delivery,183
+Ambience,7639.59217,0.00000,2024Q2,UK,0.00000,Burger King London #45,London,UberEats,Burger King,31,25-34,Female,Reserved,Delivery,183
+Ambience,2064.77638,0.00000,2024Q3,UK,2064.77638,McDonald's London #96,London,OpenTable,McDonald's,56,55-64,Female,Reserved,Eat In,184
+Food Quality,9041.72495,0.00000,2024Q3,UK,9041.72495,Burger King London #96,London,UberEats,Burger King,40,35-45,Male,Reserved,Delivery,185
+Menu Variety,9041.72495,0.00000,2024Q3,UK,0.00000,Burger King London #96,London,UberEats,Burger King,40,35-45,Male,Reserved,Delivery,185
+Pricing,9041.72495,0.00000,2024Q3,UK,0.00000,Burger King London #96,London,UberEats,Burger King,40,35-45,Male,Reserved,Delivery,185
+Ambience,0.00000,7985.10175,2024Q3,IT,7985.10175,Chipotle Rome #11,Rome,OpenTable,Chipotle,32,25-34,Female,Reserved,Eat In,186
+Location & Accessibility,4877.93568,0.00000,2024Q2,UK,4877.93568,Subway London #54,London,Deliveroo,Subway,70,65+,Female,Reserved,Delivery,187
+Service Speed,4877.93568,0.00000,2024Q2,UK,0.00000,Subway London #54,London,Deliveroo,Subway,70,65+,Female,Reserved,Delivery,187
+Customer Service,4877.93568,0.00000,2024Q2,UK,0.00000,Subway London #54,London,Deliveroo,Subway,70,65+,Female,Reserved,Delivery,187
+Ambience,5184.99404,0.00000,2024Q3,US,5184.99404,Burger King New York #15,New York,Deliveroo,Burger King,21,18-24,Female,Reserved,Delivery,188
+Reservation System,5184.99404,0.00000,2024Q3,US,0.00000,Burger King New York #15,New York,Deliveroo,Burger King,21,18-24,Female,Reserved,Delivery,188
+Hygiene & Cleanliness,5184.99404,0.00000,2024Q3,US,0.00000,Burger King New York #15,New York,Deliveroo,Burger King,21,18-24,Female,Reserved,Delivery,188
+Ambience,1418.76832,0.00000,2024Q3,DE,1418.76832,KFC Berlin #77,Berlin,Deliveroo,KFC,44,35-45,Male,Reserved,Delivery,189
+Reservation System,6441.60196,0.00000,2024Q2,ES,6441.60196,Subway Madrid #33,Madrid,Deliveroo,Subway,83,65+,Female,Reserved,Delivery,190
+Ambience,6441.60196,0.00000,2024Q2,ES,0.00000,Subway Madrid #33,Madrid,Deliveroo,Subway,83,65+,Female,Reserved,Delivery,190
+Customer Service,6441.60196,0.00000,2024Q2,ES,0.00000,Subway Madrid #33,Madrid,Deliveroo,Subway,83,65+,Female,Reserved,Delivery,190
+Hygiene & Cleanliness,6441.60196,0.00000,2024Q2,ES,0.00000,Subway Madrid #33,Madrid,Deliveroo,Subway,83,65+,Female,Reserved,Delivery,190
+Special Features or Experiences,3097.30083,0.00000,2024Q3,DE,3097.30083,McDonald's Berlin #40,Berlin,OpenTable,McDonald's,56,55-64,Female,Reserved,Eat In,191
+Service Speed,3097.30083,0.00000,2024Q3,DE,0.00000,McDonald's Berlin #40,Berlin,OpenTable,McDonald's,56,55-64,Female,Reserved,Eat In,191
+Location & Accessibility,0.00000,9633.99133,2024Q2,FR,9633.99133,Chipotle Paris #86,Paris,Deliveroo,Chipotle,26,25-34,Male,Reserved,Delivery,192
+Reservation System,9335.68435,0.00000,2024Q2,UK,9335.68435,Chipotle London #20,London,OpenTable,Chipotle,55,55-64,Female,Reserved,Eat In,193
+Hygiene & Cleanliness,9335.68435,0.00000,2024Q2,UK,0.00000,Chipotle London #20,London,OpenTable,Chipotle,55,55-64,Female,Reserved,Eat In,193
+Pricing,9335.68435,0.00000,2024Q2,UK,0.00000,Chipotle London #20,London,OpenTable,Chipotle,55,55-64,Female,Reserved,Eat In,193
+Reservation System,0.00000,7803.49596,2024Q3,DE,7803.49596,Burger King Berlin #89,Berlin,OpenTable,Burger King,29,25-34,Female,Reserved,Eat In,194
+Service Speed,0.00000,7803.49596,2024Q3,DE,0.00000,Burger King Berlin #89,Berlin,OpenTable,Burger King,29,25-34,Female,Reserved,Eat In,194
+Ambience,0.00000,7803.49596,2024Q3,DE,0.00000,Burger King Berlin #89,Berlin,OpenTable,Burger King,29,25-34,Female,Reserved,Eat In,194
+Customer Service,0.00000,5991.06060,2024Q3,FR,5991.06060,Subway Paris #33,Paris,OpenTable,Subway,73,65+,Male,Reserved,Eat In,195
+Location & Accessibility,0.00000,5991.06060,2024Q3,FR,0.00000,Subway Paris #33,Paris,OpenTable,Subway,73,65+,Male,Reserved,Eat In,195
+Ambience,0.00000,5991.06060,2024Q3,FR,0.00000,Subway Paris #33,Paris,OpenTable,Subway,73,65+,Male,Reserved,Eat In,195
+Hygiene & Cleanliness,0.00000,5991.06060,2024Q3,FR,0.00000,Subway Paris #33,Paris,OpenTable,Subway,73,65+,Male,Reserved,Eat In,195
+Ambience,6559.42571,0.00000,2024Q2,ES,6559.42571,McDonald's Madrid #3,Madrid,OpenTable,McDonald's,26,25-34,Male,Reserved,Eat In,196
+Food Quality,6559.42571,0.00000,2024Q2,ES,0.00000,McDonald's Madrid #3,Madrid,OpenTable,McDonald's,26,25-34,Male,Reserved,Eat In,196
+Special Features or Experiences,4509.89750,0.00000,2024Q2,DE,4509.89750,Subway Berlin #93,Berlin,Deliveroo,Subway,34,25-34,Male,Reserved,Delivery,197
+Ambience,2224.50952,0.00000,2024Q2,UK,2224.50952,Subway London #93,London,UberEats,Subway,18,18-24,Female,Reserved,Delivery,198
+Location & Accessibility,7868.18409,0.00000,2024Q3,US,7868.18409,KFC New York #5,New York,UberEats,KFC,82,65+,Female,Reserved,Delivery,199
+Service Speed,7868.18409,0.00000,2024Q3,US,0.00000,KFC New York #5,New York,UberEats,KFC,82,65+,Female,Reserved,Delivery,199
+Food Quality,7868.18409,0.00000,2024Q3,US,0.00000,KFC New York #5,New York,UberEats,KFC,82,65+,Female,Reserved,Delivery,199
+Ambience,7868.18409,0.00000,2024Q3,US,0.00000,KFC New York #5,New York,UberEats,KFC,82,65+,Female,Reserved,Delivery,199
+Ambience,3220.23936,0.00000,2024Q2,IT,3220.23936,KFC Rome #5,Rome,UberEats,KFC,25,25-34,Female,Reserved,Delivery,200
+Food Quality,3220.23936,0.00000,2024Q2,IT,0.00000,KFC Rome #5,Rome,UberEats,KFC,25,25-34,Female,Reserved,Delivery,200
+Food Quality,7874.97275,0.00000,2024Q3,US,7874.97275,KFC New York #48,New York,UberEats,KFC,60,55-64,Male,Reserved,Delivery,201
+Ambience,1133.53178,0.00000,2024Q3,ES,1133.53178,Subway Madrid #67,Madrid,Deliveroo,Subway,57,55-64,Male,Reserved,Delivery,202
+Food Quality,1133.53178,0.00000,2024Q3,ES,0.00000,Subway Madrid #67,Madrid,Deliveroo,Subway,57,55-64,Male,Reserved,Delivery,202
+Customer Service,1065.72211,0.00000,2024Q3,UK,1065.72211,Subway London #64,London,Deliveroo,Subway,35,35-45,Male,Reserved,Delivery,203
+Service Speed,1065.72211,0.00000,2024Q3,UK,0.00000,Subway London #64,London,Deliveroo,Subway,35,35-45,Male,Reserved,Delivery,203
+Food Quality,1065.72211,0.00000,2024Q3,UK,0.00000,Subway London #64,London,Deliveroo,Subway,35,35-45,Male,Reserved,Delivery,203
+Menu Variety,1065.72211,0.00000,2024Q3,UK,0.00000,Subway London #64,London,Deliveroo,Subway,35,35-45,Male,Reserved,Delivery,203
+Hygiene & Cleanliness,3973.04106,0.00000,2024Q3,DE,3973.04106,Chipotle Berlin #56,Berlin,OpenTable,Chipotle,41,35-45,Male,Reserved,Eat In,204
+Customer Service,3973.04106,0.00000,2024Q3,DE,0.00000,Chipotle Berlin #56,Berlin,OpenTable,Chipotle,41,35-45,Male,Reserved,Eat In,204
+Special Features or Experiences,3973.04106,0.00000,2024Q3,DE,0.00000,Chipotle Berlin #56,Berlin,OpenTable,Chipotle,41,35-45,Male,Reserved,Eat In,204
+Special Features or Experiences,4389.16257,0.00000,2024Q2,IT,4389.16257,KFC Rome #50,Rome,RestaurantWebsite,KFC,28,25-34,Male,Reserved,Delivery,205
+Pricing,4389.16257,0.00000,2024Q2,IT,0.00000,KFC Rome #50,Rome,RestaurantWebsite,KFC,28,25-34,Male,Reserved,Delivery,205
+Food Quality,4079.62337,0.00000,2024Q2,UK,4079.62337,Burger King London #36,London,UberEats,Burger King,75,65+,Male,Reserved,Delivery,206
+Reservation System,4079.62337,0.00000,2024Q2,UK,0.00000,Burger King London #36,London,UberEats,Burger King,75,65+,Male,Reserved,Delivery,206
+Customer Service,0.00000,6869.60613,2024Q3,DE,6869.60613,Chipotle Berlin #10,Berlin,OpenTable,Chipotle,43,35-45,Male,Reserved,Eat In,207
+Hygiene & Cleanliness,4592.71076,0.00000,2024Q3,US,4592.71076,Chipotle New York #82,New York,OpenTable,Chipotle,33,25-34,Male,Reserved,Eat In,208
+Service Speed,4592.71076,0.00000,2024Q3,US,0.00000,Chipotle New York #82,New York,OpenTable,Chipotle,33,25-34,Male,Reserved,Eat In,208
+Reservation System,4592.71076,0.00000,2024Q3,US,0.00000,Chipotle New York #82,New York,OpenTable,Chipotle,33,25-34,Male,Reserved,Eat In,208
+Special Features or Experiences,2959.58980,0.00000,2024Q2,IT,2959.58980,Subway Rome #98,Rome,RestaurantWebsite,Subway,18,18-24,Female,Walk-In,Eat In,209
+Food Quality,2959.58980,0.00000,2024Q2,IT,0.00000,Subway Rome #98,Rome,RestaurantWebsite,Subway,18,18-24,Female,Walk-In,Eat In,209
+Hygiene & Cleanliness,2959.58980,0.00000,2024Q2,IT,0.00000,Subway Rome #98,Rome,RestaurantWebsite,Subway,18,18-24,Female,Walk-In,Eat In,209
+Location & Accessibility,0.00000,5932.20805,2024Q3,ES,5932.20805,Burger King Madrid #8,Madrid,RestaurantWebsite,Burger King,65,65+,Female,Walk-In,Takeout,210
+Reservation System,0.00000,5932.20805,2024Q3,ES,0.00000,Burger King Madrid #8,Madrid,RestaurantWebsite,Burger King,65,65+,Female,Walk-In,Takeout,210
+Menu Variety,0.00000,5932.20805,2024Q3,ES,0.00000,Burger King Madrid #8,Madrid,RestaurantWebsite,Burger King,65,65+,Female,Walk-In,Takeout,210
+Food Quality,1807.91917,0.00000,2024Q3,FR,1807.91917,McDonald's Paris #30,Paris,OpenTable,McDonald's,74,65+,Female,Reserved,Eat In,211
+Reservation System,1807.91917,0.00000,2024Q3,FR,0.00000,McDonald's Paris #30,Paris,OpenTable,McDonald's,74,65+,Female,Reserved,Eat In,211
+Special Features or Experiences,1807.91917,0.00000,2024Q3,FR,0.00000,McDonald's Paris #30,Paris,OpenTable,McDonald's,74,65+,Female,Reserved,Eat In,211
+Special Features or Experiences,6039.81870,0.00000,2024Q2,UK,6039.81870,Subway London #100,London,Deliveroo,Subway,39,35-45,Female,Reserved,Delivery,212
+Ambience,6039.81870,0.00000,2024Q2,UK,0.00000,Subway London #100,London,Deliveroo,Subway,39,35-45,Female,Reserved,Delivery,212
+Reservation System,6024.15683,0.00000,2024Q3,ES,6024.15683,Burger King Madrid #71,Madrid,RestaurantWebsite,Burger King,55,55-64,Female,Walk-In,Takeout,213
+Pricing,6024.15683,0.00000,2024Q3,ES,0.00000,Burger King Madrid #71,Madrid,RestaurantWebsite,Burger King,55,55-64,Female,Walk-In,Takeout,213
+Ambience,6024.15683,0.00000,2024Q3,ES,0.00000,Burger King Madrid #71,Madrid,RestaurantWebsite,Burger King,55,55-64,Female,Walk-In,Takeout,213
+Service Speed,0.00000,7436.32511,2024Q3,DE,7436.32511,Chipotle Berlin #68,Berlin,JustEat,Chipotle,73,65+,Female,Reserved,Delivery,214
+Reservation System,0.00000,7436.32511,2024Q3,DE,0.00000,Chipotle Berlin #68,Berlin,JustEat,Chipotle,73,65+,Female,Reserved,Delivery,214
+Food Quality,0.00000,7436.32511,2024Q3,DE,0.00000,Chipotle Berlin #68,Berlin,JustEat,Chipotle,73,65+,Female,Reserved,Delivery,214
+Pricing,1665.39483,0.00000,2024Q2,US,1665.39483,KFC New York #57,New York,OpenTable,KFC,38,35-45,Female,Reserved,Eat In,215
+Menu Variety,7883.33844,0.00000,2024Q3,FR,7883.33844,Burger King Paris #73,Paris,RestaurantWebsite,Burger King,68,65+,Female,Walk-In,Takeout,216
+Location & Accessibility,7883.33844,0.00000,2024Q3,FR,0.00000,Burger King Paris #73,Paris,RestaurantWebsite,Burger King,68,65+,Female,Walk-In,Takeout,216
+Hygiene & Cleanliness,7883.33844,0.00000,2024Q3,FR,0.00000,Burger King Paris #73,Paris,RestaurantWebsite,Burger King,68,65+,Female,Walk-In,Takeout,216
+Food Quality,7883.33844,0.00000,2024Q3,FR,0.00000,Burger King Paris #73,Paris,RestaurantWebsite,Burger King,68,65+,Female,Walk-In,Takeout,216
+Hygiene & Cleanliness,6720.50606,0.00000,2024Q2,ES,6720.50606,Subway Madrid #89,Madrid,Deliveroo,Subway,23,18-24,Female,Reserved,Delivery,217
+Service Speed,6720.50606,0.00000,2024Q2,ES,0.00000,Subway Madrid #89,Madrid,Deliveroo,Subway,23,18-24,Female,Reserved,Delivery,217
+Menu Variety,5832.93419,0.00000,2024Q2,DE,5832.93419,Chipotle Berlin #70,Berlin,Deliveroo,Chipotle,57,55-64,Female,Reserved,Delivery,218
+Location & Accessibility,5832.93419,0.00000,2024Q2,DE,0.00000,Chipotle Berlin #70,Berlin,Deliveroo,Chipotle,57,55-64,Female,Reserved,Delivery,218
+Special Features or Experiences,5832.93419,0.00000,2024Q2,DE,0.00000,Chipotle Berlin #70,Berlin,Deliveroo,Chipotle,57,55-64,Female,Reserved,Delivery,218
+Reservation System,5832.93419,0.00000,2024Q2,DE,0.00000,Chipotle Berlin #70,Berlin,Deliveroo,Chipotle,57,55-64,Female,Reserved,Delivery,218
+Menu Variety,0.00000,2856.74499,2024Q3,UK,2856.74499,KFC London #22,London,RestaurantWebsite,KFC,41,35-45,Female,Walk-In,Takeout,219
+Hygiene & Cleanliness,0.00000,2856.74499,2024Q3,UK,0.00000,KFC London #22,London,RestaurantWebsite,KFC,41,35-45,Female,Walk-In,Takeout,219
+Special Features or Experiences,0.00000,2856.74499,2024Q3,UK,0.00000,KFC London #22,London,RestaurantWebsite,KFC,41,35-45,Female,Walk-In,Takeout,219
+Service Speed,4704.77222,0.00000,2024Q3,IT,4704.77222,Chipotle Rome #56,Rome,Deliveroo,Chipotle,82,65+,Female,Reserved,Delivery,220
+Location & Accessibility,4704.77222,0.00000,2024Q3,IT,0.00000,Chipotle Rome #56,Rome,Deliveroo,Chipotle,82,65+,Female,Reserved,Delivery,220
+Special Features or Experiences,4704.77222,0.00000,2024Q3,IT,0.00000,Chipotle Rome #56,Rome,Deliveroo,Chipotle,82,65+,Female,Reserved,Delivery,220
+Customer Service,4704.77222,0.00000,2024Q3,IT,0.00000,Chipotle Rome #56,Rome,Deliveroo,Chipotle,82,65+,Female,Reserved,Delivery,220
+Pricing,4903.26484,0.00000,2024Q2,UK,4903.26484,Burger King London #25,London,OpenTable,Burger King,72,65+,Female,Reserved,Eat In,221
+Food Quality,4903.26484,0.00000,2024Q2,UK,0.00000,Burger King London #25,London,OpenTable,Burger King,72,65+,Female,Reserved,Eat In,221
+Food Quality,7237.31271,0.00000,2024Q3,ES,7237.31271,McDonald's Madrid #27,Madrid,OpenTable,McDonald's,59,55-64,Male,Reserved,Eat In,222
+Location & Accessibility,7237.31271,0.00000,2024Q3,ES,0.00000,McDonald's Madrid #27,Madrid,OpenTable,McDonald's,59,55-64,Male,Reserved,Eat In,222
+Special Features or Experiences,6039.07325,0.00000,2024Q2,US,6039.07325,McDonald's New York #84,New York,RestaurantWebsite,McDonald's,75,65+,Female,Walk-In,Takeout,223
+Service Speed,6039.07325,0.00000,2024Q2,US,0.00000,McDonald's New York #84,New York,RestaurantWebsite,McDonald's,75,65+,Female,Walk-In,Takeout,223
+Pricing,6039.07325,0.00000,2024Q2,US,0.00000,McDonald's New York #84,New York,RestaurantWebsite,McDonald's,75,65+,Female,Walk-In,Takeout,223
+Food Quality,0.00000,9505.93589,2024Q2,UK,9505.93589,KFC London #19,London,JustEat,KFC,59,55-64,Female,Reserved,Delivery,224
+Special Features or Experiences,0.00000,9505.93589,2024Q2,UK,0.00000,KFC London #19,London,JustEat,KFC,59,55-64,Female,Reserved,Delivery,224
+Ambience,3562.45527,0.00000,2024Q2,ES,3562.45527,KFC Madrid #61,Madrid,Deliveroo,KFC,35,35-45,Female,Reserved,Delivery,225
+Menu Variety,3562.45527,0.00000,2024Q2,ES,0.00000,KFC Madrid #61,Madrid,Deliveroo,KFC,35,35-45,Female,Reserved,Delivery,225
+Food Quality,5458.21300,0.00000,2024Q2,DE,5458.21300,Subway Berlin #21,Berlin,JustEat,Subway,20,18-24,Female,Reserved,Delivery,226
+Ambience,5458.21300,0.00000,2024Q2,DE,0.00000,Subway Berlin #21,Berlin,JustEat,Subway,20,18-24,Female,Reserved,Delivery,226
+Customer Service,5458.21300,0.00000,2024Q2,DE,0.00000,Subway Berlin #21,Berlin,JustEat,Subway,20,18-24,Female,Reserved,Delivery,226
+Reservation System,5952.77667,0.00000,2024Q3,US,5952.77667,Subway New York #46,New York,JustEat,Subway,62,55-64,Female,Reserved,Delivery,227
+Hygiene & Cleanliness,5952.77667,0.00000,2024Q3,US,0.00000,Subway New York #46,New York,JustEat,Subway,62,55-64,Female,Reserved,Delivery,227
+Customer Service,5952.77667,0.00000,2024Q3,US,0.00000,Subway New York #46,New York,JustEat,Subway,62,55-64,Female,Reserved,Delivery,227
+Ambience,6422.73223,0.00000,2024Q2,FR,6422.73223,Chipotle Paris #65,Paris,JustEat,Chipotle,70,65+,Male,Reserved,Delivery,228
+Menu Variety,6422.73223,0.00000,2024Q2,FR,0.00000,Chipotle Paris #65,Paris,JustEat,Chipotle,70,65+,Male,Reserved,Delivery,228
+Special Features or Experiences,6422.73223,0.00000,2024Q2,FR,0.00000,Chipotle Paris #65,Paris,JustEat,Chipotle,70,65+,Male,Reserved,Delivery,228
+Food Quality,0.00000,8332.48646,2024Q3,DE,8332.48646,McDonald's Berlin #9,Berlin,OpenTable,McDonald's,31,25-34,Female,Reserved,Eat In,229
+Location & Accessibility,0.00000,8332.48646,2024Q3,DE,0.00000,McDonald's Berlin #9,Berlin,OpenTable,McDonald's,31,25-34,Female,Reserved,Eat In,229
+Customer Service,0.00000,8332.48646,2024Q3,DE,0.00000,McDonald's Berlin #9,Berlin,OpenTable,McDonald's,31,25-34,Female,Reserved,Eat In,229
+Hygiene & Cleanliness,0.00000,8332.48646,2024Q3,DE,0.00000,McDonald's Berlin #9,Berlin,OpenTable,McDonald's,31,25-34,Female,Reserved,Eat In,229
+Location & Accessibility,1074.60292,0.00000,2024Q2,ES,1074.60292,Chipotle Madrid #88,Madrid,UberEats,Chipotle,19,18-24,Female,Reserved,Delivery,230
+Service Speed,1074.60292,0.00000,2024Q2,ES,0.00000,Chipotle Madrid #88,Madrid,UberEats,Chipotle,19,18-24,Female,Reserved,Delivery,230
+Menu Variety,1074.60292,0.00000,2024Q2,ES,0.00000,Chipotle Madrid #88,Madrid,UberEats,Chipotle,19,18-24,Female,Reserved,Delivery,230
+Customer Service,1223.46860,0.00000,2024Q2,UK,1223.46860,KFC London #24,London,UberEats,KFC,34,25-34,Male,Reserved,Delivery,231
+Ambience,1223.46860,0.00000,2024Q2,UK,0.00000,KFC London #24,London,UberEats,KFC,34,25-34,Male,Reserved,Delivery,231
+Reservation System,1223.46860,0.00000,2024Q2,UK,0.00000,KFC London #24,London,UberEats,KFC,34,25-34,Male,Reserved,Delivery,231
+Location & Accessibility,1223.46860,0.00000,2024Q2,UK,0.00000,KFC London #24,London,UberEats,KFC,34,25-34,Male,Reserved,Delivery,231
+Menu Variety,2509.82394,0.00000,2024Q2,US,2509.82394,Chipotle New York #37,New York,UberEats,Chipotle,56,55-64,Female,Reserved,Delivery,232
+Menu Variety,2091.99736,0.00000,2024Q3,IT,2091.99736,KFC Rome #42,Rome,OpenTable,KFC,21,18-24,Male,Reserved,Eat In,233
+Special Features or Experiences,2091.99736,0.00000,2024Q3,IT,0.00000,KFC Rome #42,Rome,OpenTable,KFC,21,18-24,Male,Reserved,Eat In,233
+Pricing,2091.99736,0.00000,2024Q3,IT,0.00000,KFC Rome #42,Rome,OpenTable,KFC,21,18-24,Male,Reserved,Eat In,233
+Service Speed,9792.64375,0.00000,2024Q2,FR,9792.64375,Subway Paris #65,Paris,JustEat,Subway,34,25-34,Male,Reserved,Delivery,234
+Service Speed,8661.26928,0.00000,2024Q2,FR,8661.26928,Subway Paris #65,Paris,UberEats,Subway,35,35-45,Male,Reserved,Delivery,235
+Customer Service,8661.26928,0.00000,2024Q2,FR,0.00000,Subway Paris #65,Paris,UberEats,Subway,35,35-45,Male,Reserved,Delivery,235
+Location & Accessibility,0.00000,3182.29419,2024Q2,ES,3182.29419,Chipotle Madrid #37,Madrid,RestaurantWebsite,Chipotle,27,25-34,Male,Walk-In,Takeout,236
+Food Quality,0.00000,3182.29419,2024Q2,ES,0.00000,Chipotle Madrid #37,Madrid,RestaurantWebsite,Chipotle,27,25-34,Male,Walk-In,Takeout,236
+Ambience,9385.67743,0.00000,2024Q3,UK,9385.67743,Subway London #10,London,RestaurantWebsite,Subway,64,55-64,Male,Reserved,Delivery,237
+Customer Service,9385.67743,0.00000,2024Q3,UK,0.00000,Subway London #10,London,RestaurantWebsite,Subway,64,55-64,Male,Reserved,Delivery,237
+Ambience,4060.71718,0.00000,2024Q3,US,4060.71718,KFC New York #8,New York,RestaurantWebsite,KFC,21,18-24,Male,Reserved,Eat In,238
+Customer Service,4060.71718,0.00000,2024Q3,US,0.00000,KFC New York #8,New York,RestaurantWebsite,KFC,21,18-24,Male,Reserved,Eat In,238
+Pricing,4060.71718,0.00000,2024Q3,US,0.00000,KFC New York #8,New York,RestaurantWebsite,KFC,21,18-24,Male,Reserved,Eat In,238
+Customer Service,0.00000,1250.71815,2024Q2,DE,1250.71815,McDonald's Berlin #50,Berlin,OpenTable,McDonald's,88,65+,Male,Reserved,Eat In,239
+Food Quality,0.00000,1250.71815,2024Q2,DE,0.00000,McDonald's Berlin #50,Berlin,OpenTable,McDonald's,88,65+,Male,Reserved,Eat In,239
+Hygiene & Cleanliness,0.00000,1250.71815,2024Q2,DE,0.00000,McDonald's Berlin #50,Berlin,OpenTable,McDonald's,88,65+,Male,Reserved,Eat In,239
+Special Features or Experiences,9895.69497,0.00000,2024Q2,ES,9895.69497,McDonald's Madrid #38,Madrid,JustEat,McDonald's,63,55-64,Female,Reserved,Delivery,240
+Reservation System,9895.69497,0.00000,2024Q2,ES,0.00000,McDonald's Madrid #38,Madrid,JustEat,McDonald's,63,55-64,Female,Reserved,Delivery,240
+Customer Service,6210.99947,0.00000,2024Q2,FR,6210.99947,KFC Paris #71,Paris,UberEats,KFC,21,18-24,Male,Reserved,Delivery,241
+Hygiene & Cleanliness,6210.99947,0.00000,2024Q2,FR,0.00000,KFC Paris #71,Paris,UberEats,KFC,21,18-24,Male,Reserved,Delivery,241
+Pricing,6210.99947,0.00000,2024Q2,FR,0.00000,KFC Paris #71,Paris,UberEats,KFC,21,18-24,Male,Reserved,Delivery,241
+Special Features or Experiences,6055.21685,0.00000,2024Q3,ES,6055.21685,KFC Madrid #25,Madrid,OpenTable,KFC,21,18-24,Female,Reserved,Eat In,242
+Food Quality,6055.21685,0.00000,2024Q3,ES,0.00000,KFC Madrid #25,Madrid,OpenTable,KFC,21,18-24,Female,Reserved,Eat In,242
+Menu Variety,6055.21685,0.00000,2024Q3,ES,0.00000,KFC Madrid #25,Madrid,OpenTable,KFC,21,18-24,Female,Reserved,Eat In,242
+Customer Service,6055.21685,0.00000,2024Q3,ES,0.00000,KFC Madrid #25,Madrid,OpenTable,KFC,21,18-24,Female,Reserved,Eat In,242
+Customer Service,0.00000,9605.59595,2024Q3,IT,9605.59595,Chipotle Rome #10,Rome,OpenTable,Chipotle,89,65+,Male,Reserved,Eat In,243
+Service Speed,9779.47945,0.00000,2024Q3,UK,9779.47945,McDonald's London #35,London,RestaurantWebsite,McDonald's,43,35-45,Female,Walk-In,Takeout,244
+Special Features or Experiences,9779.47945,0.00000,2024Q3,UK,0.00000,McDonald's London #35,London,RestaurantWebsite,McDonald's,43,35-45,Female,Walk-In,Takeout,244
+Food Quality,9779.47945,0.00000,2024Q3,UK,0.00000,McDonald's London #35,London,RestaurantWebsite,McDonald's,43,35-45,Female,Walk-In,Takeout,244
+Menu Variety,9779.47945,0.00000,2024Q3,UK,0.00000,McDonald's London #35,London,RestaurantWebsite,McDonald's,43,35-45,Female,Walk-In,Takeout,244
+Location & Accessibility,0.00000,7167.63885,2024Q3,ES,7167.63885,Chipotle Madrid #27,Madrid,OpenTable,Chipotle,90,65+,Female,Reserved,Eat In,245
+Hygiene & Cleanliness,0.00000,7167.63885,2024Q3,ES,0.00000,Chipotle Madrid #27,Madrid,OpenTable,Chipotle,90,65+,Female,Reserved,Eat In,245
+Service Speed,0.00000,7167.63885,2024Q3,ES,0.00000,Chipotle Madrid #27,Madrid,OpenTable,Chipotle,90,65+,Female,Reserved,Eat In,245
+Menu Variety,0.00000,7167.63885,2024Q3,ES,0.00000,Chipotle Madrid #27,Madrid,OpenTable,Chipotle,90,65+,Female,Reserved,Eat In,245
+Menu Variety,3858.65018,0.00000,2024Q2,ES,3858.65018,Subway Madrid #44,Madrid,JustEat,Subway,62,55-64,Female,Reserved,Delivery,246
+Menu Variety,6120.00789,0.00000,2024Q2,DE,6120.00789,KFC Berlin #94,Berlin,Deliveroo,KFC,25,25-34,Female,Reserved,Delivery,247
+Menu Variety,0.00000,5403.53766,2024Q2,US,5403.53766,Burger King New York #90,New York,OpenTable,Burger King,76,65+,Female,Reserved,Eat In,248
+Pricing,7159.21647,0.00000,2024Q3,DE,7159.21647,Subway Berlin #48,Berlin,OpenTable,Subway,85,65+,Female,Reserved,Eat In,249
+Reservation System,7159.21647,0.00000,2024Q3,DE,0.00000,Subway Berlin #48,Berlin,OpenTable,Subway,85,65+,Female,Reserved,Eat In,249
+Service Speed,0.00000,9005.25056,2024Q2,FR,9005.25056,KFC Paris #18,Paris,RestaurantWebsite,KFC,62,55-64,Male,Reserved,Delivery,250
+Pricing,0.00000,9005.25056,2024Q2,FR,0.00000,KFC Paris #18,Paris,RestaurantWebsite,KFC,62,55-64,Male,Reserved,Delivery,250
+Hygiene & Cleanliness,0.00000,9005.25056,2024Q2,FR,0.00000,KFC Paris #18,Paris,RestaurantWebsite,KFC,62,55-64,Male,Reserved,Delivery,250
+Special Features or Experiences,0.00000,9005.25056,2024Q2,FR,0.00000,KFC Paris #18,Paris,RestaurantWebsite,KFC,62,55-64,Male,Reserved,Delivery,250
+Menu Variety,0.00000,4321.37828,2024Q3,FR,4321.37828,Chipotle Paris #87,Paris,UberEats,Chipotle,29,25-34,Female,Reserved,Delivery,251
+Service Speed,0.00000,4321.37828,2024Q3,FR,0.00000,Chipotle Paris #87,Paris,UberEats,Chipotle,29,25-34,Female,Reserved,Delivery,251
+Special Features or Experiences,0.00000,4321.37828,2024Q3,FR,0.00000,Chipotle Paris #87,Paris,UberEats,Chipotle,29,25-34,Female,Reserved,Delivery,251
+Menu Variety,5626.84628,0.00000,2024Q2,US,5626.84628,McDonald's New York #16,New York,JustEat,McDonald's,81,65+,Male,Reserved,Delivery,252
+Ambience,5626.84628,0.00000,2024Q2,US,0.00000,McDonald's New York #16,New York,JustEat,McDonald's,81,65+,Male,Reserved,Delivery,252
+Customer Service,5626.84628,0.00000,2024Q2,US,0.00000,McDonald's New York #16,New York,JustEat,McDonald's,81,65+,Male,Reserved,Delivery,252
+Pricing,5626.84628,0.00000,2024Q2,US,0.00000,McDonald's New York #16,New York,JustEat,McDonald's,81,65+,Male,Reserved,Delivery,252
+Ambience,6131.55243,0.00000,2024Q2,DE,6131.55243,Burger King Berlin #70,Berlin,Deliveroo,Burger King,74,65+,Male,Reserved,Delivery,253
+Food Quality,6131.55243,0.00000,2024Q2,DE,0.00000,Burger King Berlin #70,Berlin,Deliveroo,Burger King,74,65+,Male,Reserved,Delivery,253
+Menu Variety,9064.00252,0.00000,2024Q2,ES,9064.00252,McDonald's Madrid #77,Madrid,Deliveroo,McDonald's,44,35-45,Male,Reserved,Delivery,254
+Pricing,9064.00252,0.00000,2024Q2,ES,0.00000,McDonald's Madrid #77,Madrid,Deliveroo,McDonald's,44,35-45,Male,Reserved,Delivery,254
+Special Features or Experiences,9064.00252,0.00000,2024Q2,ES,0.00000,McDonald's Madrid #77,Madrid,Deliveroo,McDonald's,44,35-45,Male,Reserved,Delivery,254
+Service Speed,0.00000,1582.92757,2024Q2,IT,1582.92757,KFC Rome #46,Rome,RestaurantWebsite,KFC,80,65+,Male,Reserved,Eat In,255
+Food Quality,6653.97155,0.00000,2024Q3,UK,6653.97155,KFC London #28,London,JustEat,KFC,58,55-64,Male,Reserved,Delivery,256
+Ambience,6653.97155,0.00000,2024Q3,UK,0.00000,KFC London #28,London,JustEat,KFC,58,55-64,Male,Reserved,Delivery,256
+Reservation System,6653.97155,0.00000,2024Q3,UK,0.00000,KFC London #28,London,JustEat,KFC,58,55-64,Male,Reserved,Delivery,256
+Hygiene & Cleanliness,6827.43106,0.00000,2024Q2,FR,6827.43106,Burger King Paris #68,Paris,Deliveroo,Burger King,22,18-24,Female,Reserved,Delivery,257
+Ambience,4956.14060,0.00000,2024Q2,DE,4956.14060,McDonald's Berlin #64,Berlin,Deliveroo,McDonald's,26,25-34,Female,Reserved,Delivery,258
+Location & Accessibility,4956.14060,0.00000,2024Q2,DE,0.00000,McDonald's Berlin #64,Berlin,Deliveroo,McDonald's,26,25-34,Female,Reserved,Delivery,258
+Food Quality,4956.14060,0.00000,2024Q2,DE,0.00000,McDonald's Berlin #64,Berlin,Deliveroo,McDonald's,26,25-34,Female,Reserved,Delivery,258
+Pricing,4956.14060,0.00000,2024Q2,DE,0.00000,McDonald's Berlin #64,Berlin,Deliveroo,McDonald's,26,25-34,Female,Reserved,Delivery,258
+Special Features or Experiences,9277.55549,0.00000,2024Q2,DE,9277.55549,Chipotle Berlin #41,Berlin,RestaurantWebsite,Chipotle,43,35-45,Male,Reserved,Eat In,259
+Location & Accessibility,9277.55549,0.00000,2024Q2,DE,0.00000,Chipotle Berlin #41,Berlin,RestaurantWebsite,Chipotle,43,35-45,Male,Reserved,Eat In,259
+Food Quality,9277.55549,0.00000,2024Q2,DE,0.00000,Chipotle Berlin #41,Berlin,RestaurantWebsite,Chipotle,43,35-45,Male,Reserved,Eat In,259
+Ambience,9277.55549,0.00000,2024Q2,DE,0.00000,Chipotle Berlin #41,Berlin,RestaurantWebsite,Chipotle,43,35-45,Male,Reserved,Eat In,259
+Food Quality,0.00000,6626.86385,2024Q3,UK,6626.86385,Subway London #23,London,Deliveroo,Subway,60,55-64,Female,Reserved,Delivery,260
+Pricing,0.00000,6626.86385,2024Q3,UK,0.00000,Subway London #23,London,Deliveroo,Subway,60,55-64,Female,Reserved,Delivery,260
+Food Quality,0.00000,4021.08819,2024Q2,US,4021.08819,KFC New York #40,New York,OpenTable,KFC,88,65+,Female,Reserved,Eat In,261
+Location & Accessibility,7175.13433,0.00000,2024Q2,UK,7175.13433,Burger King London #92,London,Deliveroo,Burger King,32,25-34,Female,Reserved,Delivery,262
+Hygiene & Cleanliness,7175.13433,0.00000,2024Q2,UK,0.00000,Burger King London #92,London,Deliveroo,Burger King,32,25-34,Female,Reserved,Delivery,262
+Special Features or Experiences,2781.23670,0.00000,2024Q3,DE,2781.23670,Subway Berlin #42,Berlin,JustEat,Subway,62,55-64,Male,Reserved,Delivery,263
+Ambience,2817.38092,0.00000,2024Q2,IT,2817.38092,KFC Rome #12,Rome,RestaurantWebsite,KFC,79,65+,Female,Walk-In,Eat In,264
+Customer Service,2817.38092,0.00000,2024Q2,IT,0.00000,KFC Rome #12,Rome,RestaurantWebsite,KFC,79,65+,Female,Walk-In,Eat In,264
+Menu Variety,2817.38092,0.00000,2024Q2,IT,0.00000,KFC Rome #12,Rome,RestaurantWebsite,KFC,79,65+,Female,Walk-In,Eat In,264
+Service Speed,0.00000,1558.91891,2024Q3,FR,1558.91891,Burger King Paris #8,Paris,JustEat,Burger King,58,55-64,Male,Reserved,Delivery,265
+Special Features or Experiences,0.00000,1558.91891,2024Q3,FR,0.00000,Burger King Paris #8,Paris,JustEat,Burger King,58,55-64,Male,Reserved,Delivery,265
+Menu Variety,0.00000,1558.91891,2024Q3,FR,0.00000,Burger King Paris #8,Paris,JustEat,Burger King,58,55-64,Male,Reserved,Delivery,265
+Location & Accessibility,0.00000,1558.91891,2024Q3,FR,0.00000,Burger King Paris #8,Paris,JustEat,Burger King,58,55-64,Male,Reserved,Delivery,265
+Pricing,2945.99859,0.00000,2024Q3,FR,2945.99859,Subway Paris #21,Paris,RestaurantWebsite,Subway,64,55-64,Male,Reserved,Delivery,266
+Service Speed,2945.99859,0.00000,2024Q3,FR,0.00000,Subway Paris #21,Paris,RestaurantWebsite,Subway,64,55-64,Male,Reserved,Delivery,266
+Ambience,2945.99859,0.00000,2024Q3,FR,0.00000,Subway Paris #21,Paris,RestaurantWebsite,Subway,64,55-64,Male,Reserved,Delivery,266
+Food Quality,5391.55725,0.00000,2024Q2,UK,5391.55725,McDonald's London #69,London,JustEat,McDonald's,31,25-34,Female,Reserved,Delivery,267
+Hygiene & Cleanliness,5391.55725,0.00000,2024Q2,UK,0.00000,McDonald's London #69,London,JustEat,McDonald's,31,25-34,Female,Reserved,Delivery,267
+Special Features or Experiences,5391.55725,0.00000,2024Q2,UK,0.00000,McDonald's London #69,London,JustEat,McDonald's,31,25-34,Female,Reserved,Delivery,267
+Reservation System,5391.55725,0.00000,2024Q2,UK,0.00000,McDonald's London #69,London,JustEat,McDonald's,31,25-34,Female,Reserved,Delivery,267
+Menu Variety,3213.24030,0.00000,2024Q3,US,3213.24030,KFC New York #21,New York,OpenTable,KFC,31,25-34,Female,Reserved,Eat In,268
+Service Speed,8990.47557,0.00000,2024Q3,FR,8990.47557,Burger King Paris #42,Paris,UberEats,Burger King,88,65+,Male,Reserved,Delivery,269
+Location & Accessibility,7770.87372,0.00000,2024Q2,DE,7770.87372,Subway Berlin #81,Berlin,JustEat,Subway,61,55-64,Female,Reserved,Delivery,270
+Customer Service,7770.87372,0.00000,2024Q2,DE,0.00000,Subway Berlin #81,Berlin,JustEat,Subway,61,55-64,Female,Reserved,Delivery,270
+Ambience,1533.77686,0.00000,2024Q3,DE,1533.77686,Burger King Berlin #64,Berlin,JustEat,Burger King,57,55-64,Female,Reserved,Delivery,271
+Reservation System,1533.77686,0.00000,2024Q3,DE,0.00000,Burger King Berlin #64,Berlin,JustEat,Burger King,57,55-64,Female,Reserved,Delivery,271
+Ambience,0.00000,4513.76488,2024Q3,DE,4513.76488,Chipotle Berlin #37,Berlin,Deliveroo,Chipotle,45,35-45,Female,Reserved,Delivery,272
+Customer Service,0.00000,4513.76488,2024Q3,DE,0.00000,Chipotle Berlin #37,Berlin,Deliveroo,Chipotle,45,35-45,Female,Reserved,Delivery,272
+Special Features or Experiences,0.00000,4513.76488,2024Q3,DE,0.00000,Chipotle Berlin #37,Berlin,Deliveroo,Chipotle,45,35-45,Female,Reserved,Delivery,272
+Customer Service,5011.68060,0.00000,2024Q3,FR,5011.68060,Burger King Paris #10,Paris,UberEats,Burger King,23,18-24,Female,Reserved,Delivery,273
+Special Features or Experiences,5011.68060,0.00000,2024Q3,FR,0.00000,Burger King Paris #10,Paris,UberEats,Burger King,23,18-24,Female,Reserved,Delivery,273
+Menu Variety,5011.68060,0.00000,2024Q3,FR,0.00000,Burger King Paris #10,Paris,UberEats,Burger King,23,18-24,Female,Reserved,Delivery,273
+Service Speed,5011.68060,0.00000,2024Q3,FR,0.00000,Burger King Paris #10,Paris,UberEats,Burger King,23,18-24,Female,Reserved,Delivery,273
+Reservation System,5332.38898,0.00000,2024Q2,IT,5332.38898,KFC Rome #70,Rome,OpenTable,KFC,30,25-34,Female,Reserved,Eat In,274
+Customer Service,5332.38898,0.00000,2024Q2,IT,0.00000,KFC Rome #70,Rome,OpenTable,KFC,30,25-34,Female,Reserved,Eat In,274
+Ambience,5332.38898,0.00000,2024Q2,IT,0.00000,KFC Rome #70,Rome,OpenTable,KFC,30,25-34,Female,Reserved,Eat In,274
+Pricing,1816.01130,0.00000,2024Q2,UK,1816.01130,McDonald's London #39,London,OpenTable,McDonald's,42,35-45,Female,Reserved,Eat In,275
+Hygiene & Cleanliness,1816.01130,0.00000,2024Q2,UK,0.00000,McDonald's London #39,London,OpenTable,McDonald's,42,35-45,Female,Reserved,Eat In,275
+Ambience,1816.01130,0.00000,2024Q2,UK,0.00000,McDonald's London #39,London,OpenTable,McDonald's,42,35-45,Female,Reserved,Eat In,275
+Location & Accessibility,1816.01130,0.00000,2024Q2,UK,0.00000,McDonald's London #39,London,OpenTable,McDonald's,42,35-45,Female,Reserved,Eat In,275
+Menu Variety,1249.92146,0.00000,2024Q3,ES,1249.92146,Chipotle Madrid #87,Madrid,OpenTable,Chipotle,78,65+,Female,Reserved,Eat In,276
+Special Features or Experiences,1249.92146,0.00000,2024Q3,ES,0.00000,Chipotle Madrid #87,Madrid,OpenTable,Chipotle,78,65+,Female,Reserved,Eat In,276
+Reservation System,1249.92146,0.00000,2024Q3,ES,0.00000,Chipotle Madrid #87,Madrid,OpenTable,Chipotle,78,65+,Female,Reserved,Eat In,276
+Service Speed,0.00000,8060.78434,2024Q3,US,8060.78434,KFC New York #54,New York,RestaurantWebsite,KFC,40,35-45,Female,Walk-In,Takeout,277
+Food Quality,0.00000,8060.78434,2024Q3,US,0.00000,KFC New York #54,New York,RestaurantWebsite,KFC,40,35-45,Female,Walk-In,Takeout,277
+Customer Service,0.00000,8060.78434,2024Q3,US,0.00000,KFC New York #54,New York,RestaurantWebsite,KFC,40,35-45,Female,Walk-In,Takeout,277
+Special Features or Experiences,1783.79364,0.00000,2024Q3,FR,1783.79364,Burger King Paris #61,Paris,Deliveroo,Burger King,67,65+,Male,Reserved,Delivery,278
+Ambience,1783.79364,0.00000,2024Q3,FR,0.00000,Burger King Paris #61,Paris,Deliveroo,Burger King,67,65+,Male,Reserved,Delivery,278
+Ambience,0.00000,7065.95747,2024Q3,DE,7065.95747,Subway Berlin #53,Berlin,RestaurantWebsite,Subway,18,18-24,Female,Reserved,Eat In,279
+Menu Variety,0.00000,7065.95747,2024Q3,DE,0.00000,Subway Berlin #53,Berlin,RestaurantWebsite,Subway,18,18-24,Female,Reserved,Eat In,279
+Hygiene & Cleanliness,0.00000,7065.95747,2024Q3,DE,0.00000,Subway Berlin #53,Berlin,RestaurantWebsite,Subway,18,18-24,Female,Reserved,Eat In,279
+Customer Service,0.00000,7065.95747,2024Q3,DE,0.00000,Subway Berlin #53,Berlin,RestaurantWebsite,Subway,18,18-24,Female,Reserved,Eat In,279
+Ambience,0.00000,7037.33785,2024Q3,FR,7037.33785,KFC Paris #84,Paris,RestaurantWebsite,KFC,35,35-45,Female,Walk-In,Takeout,280
+Location & Accessibility,3510.44428,0.00000,2024Q3,IT,3510.44428,KFC Rome #92,Rome,RestaurantWebsite,KFC,71,65+,Male,Reserved,Delivery,281
+Customer Service,3510.44428,0.00000,2024Q3,IT,0.00000,KFC Rome #92,Rome,RestaurantWebsite,KFC,71,65+,Male,Reserved,Delivery,281
+Hygiene & Cleanliness,3510.44428,0.00000,2024Q3,IT,0.00000,KFC Rome #92,Rome,RestaurantWebsite,KFC,71,65+,Male,Reserved,Delivery,281
+Special Features or Experiences,9851.78080,0.00000,2024Q2,US,9851.78080,Subway New York #36,New York,Deliveroo,Subway,77,65+,Male,Reserved,Delivery,282
+Service Speed,6514.18378,0.00000,2024Q2,IT,6514.18378,Subway Rome #12,Rome,OpenTable,Subway,23,18-24,Male,Reserved,Eat In,283
+Hygiene & Cleanliness,8644.52545,0.00000,2024Q3,ES,8644.52545,Burger King Madrid #55,Madrid,RestaurantWebsite,Burger King,35,35-45,Male,Walk-In,Eat In,284
+Special Features or Experiences,8644.52545,0.00000,2024Q3,ES,0.00000,Burger King Madrid #55,Madrid,RestaurantWebsite,Burger King,35,35-45,Male,Walk-In,Eat In,284
+Service Speed,8644.52545,0.00000,2024Q3,ES,0.00000,Burger King Madrid #55,Madrid,RestaurantWebsite,Burger King,35,35-45,Male,Walk-In,Eat In,284
+Menu Variety,6137.02274,0.00000,2024Q2,IT,6137.02274,McDonald's Rome #79,Rome,UberEats,McDonald's,45,35-45,Female,Reserved,Delivery,285
+Menu Variety,8612.98994,0.00000,2024Q3,UK,8612.98994,Subway London #79,London,OpenTable,Subway,22,18-24,Female,Reserved,Eat In,286
+Ambience,8612.98994,0.00000,2024Q3,UK,0.00000,Subway London #79,London,OpenTable,Subway,22,18-24,Female,Reserved,Eat In,286
+Special Features or Experiences,8612.98994,0.00000,2024Q3,UK,0.00000,Subway London #79,London,OpenTable,Subway,22,18-24,Female,Reserved,Eat In,286
+Pricing,8612.98994,0.00000,2024Q3,UK,0.00000,Subway London #79,London,OpenTable,Subway,22,18-24,Female,Reserved,Eat In,286
+Reservation System,4230.52212,0.00000,2024Q3,UK,4230.52212,McDonald's London #32,London,UberEats,McDonald's,28,25-34,Male,Reserved,Delivery,287
+Pricing,4230.52212,0.00000,2024Q3,UK,0.00000,McDonald's London #32,London,UberEats,McDonald's,28,25-34,Male,Reserved,Delivery,287
+Hygiene & Cleanliness,4230.52212,0.00000,2024Q3,UK,0.00000,McDonald's London #32,London,UberEats,McDonald's,28,25-34,Male,Reserved,Delivery,287
+Customer Service,4230.52212,0.00000,2024Q3,UK,0.00000,McDonald's London #32,London,UberEats,McDonald's,28,25-34,Male,Reserved,Delivery,287
+Reservation System,7118.64997,0.00000,2024Q3,DE,7118.64997,Chipotle Berlin #56,Berlin,JustEat,Chipotle,64,55-64,Female,Reserved,Delivery,288
+Menu Variety,5407.51032,0.00000,2024Q3,UK,5407.51032,Subway London #44,London,OpenTable,Subway,37,35-45,Male,Reserved,Eat In,289
+Special Features or Experiences,9416.75572,0.00000,2024Q2,ES,9416.75572,McDonald's Madrid #11,Madrid,Deliveroo,McDonald's,60,55-64,Female,Reserved,Delivery,290
+Food Quality,8634.86712,0.00000,2024Q3,IT,8634.86712,Burger King Rome #24,Rome,RestaurantWebsite,Burger King,33,25-34,Female,Walk-In,Eat In,291
+Food Quality,6992.82294,0.00000,2024Q2,ES,6992.82294,Burger King Madrid #72,Madrid,JustEat,Burger King,32,25-34,Male,Reserved,Delivery,292
+Location & Accessibility,6992.82294,0.00000,2024Q2,ES,0.00000,Burger King Madrid #72,Madrid,JustEat,Burger King,32,25-34,Male,Reserved,Delivery,292
+Reservation System,6888.18368,0.00000,2024Q3,FR,6888.18368,KFC Paris #75,Paris,OpenTable,KFC,41,35-45,Female,Reserved,Eat In,293
+Customer Service,6888.18368,0.00000,2024Q3,FR,0.00000,KFC Paris #75,Paris,OpenTable,KFC,41,35-45,Female,Reserved,Eat In,293
+Service Speed,6888.18368,0.00000,2024Q3,FR,0.00000,KFC Paris #75,Paris,OpenTable,KFC,41,35-45,Female,Reserved,Eat In,293
+Hygiene & Cleanliness,6888.18368,0.00000,2024Q3,FR,0.00000,KFC Paris #75,Paris,OpenTable,KFC,41,35-45,Female,Reserved,Eat In,293
+Customer Service,5064.60925,0.00000,2024Q2,DE,5064.60925,Burger King Berlin #58,Berlin,Deliveroo,Burger King,37,35-45,Male,Reserved,Delivery,294
+Menu Variety,5064.60925,0.00000,2024Q2,DE,0.00000,Burger King Berlin #58,Berlin,Deliveroo,Burger King,37,35-45,Male,Reserved,Delivery,294
+Food Quality,5064.60925,0.00000,2024Q2,DE,0.00000,Burger King Berlin #58,Berlin,Deliveroo,Burger King,37,35-45,Male,Reserved,Delivery,294
+Hygiene & Cleanliness,0.00000,7623.44897,2024Q3,UK,7623.44897,KFC London #83,London,Deliveroo,KFC,25,25-34,Male,Reserved,Delivery,295
+Reservation System,0.00000,7623.44897,2024Q3,UK,0.00000,KFC London #83,London,Deliveroo,KFC,25,25-34,Male,Reserved,Delivery,295
+Location & Accessibility,0.00000,7623.44897,2024Q3,UK,0.00000,KFC London #83,London,Deliveroo,KFC,25,25-34,Male,Reserved,Delivery,295
+Hygiene & Cleanliness,0.00000,3623.40181,2024Q3,UK,3623.40181,Subway London #13,London,UberEats,Subway,68,65+,Female,Reserved,Delivery,296
+Pricing,5439.30902,0.00000,2024Q3,US,5439.30902,Chipotle New York #60,New York,UberEats,Chipotle,42,35-45,Female,Reserved,Delivery,297
+Reservation System,5439.30902,0.00000,2024Q3,US,0.00000,Chipotle New York #60,New York,UberEats,Chipotle,42,35-45,Female,Reserved,Delivery,297
+Special Features or Experiences,5439.30902,0.00000,2024Q3,US,0.00000,Chipotle New York #60,New York,UberEats,Chipotle,42,35-45,Female,Reserved,Delivery,297
+Service Speed,5439.30902,0.00000,2024Q3,US,0.00000,Chipotle New York #60,New York,UberEats,Chipotle,42,35-45,Female,Reserved,Delivery,297
+Special Features or Experiences,7877.21790,0.00000,2024Q3,IT,7877.21790,Subway Rome #98,Rome,RestaurantWebsite,Subway,18,18-24,Female,Reserved,Delivery,298
+Ambience,7877.21790,0.00000,2024Q3,IT,0.00000,Subway Rome #98,Rome,RestaurantWebsite,Subway,18,18-24,Female,Reserved,Delivery,298
+Food Quality,7877.21790,0.00000,2024Q3,IT,0.00000,Subway Rome #98,Rome,RestaurantWebsite,Subway,18,18-24,Female,Reserved,Delivery,298
+Location & Accessibility,7877.21790,0.00000,2024Q3,IT,0.00000,Subway Rome #98,Rome,RestaurantWebsite,Subway,18,18-24,Female,Reserved,Delivery,298
+Menu Variety,0.00000,5680.97026,2024Q3,FR,5680.97026,Subway Paris #32,Paris,JustEat,Subway,82,65+,Male,Reserved,Delivery,299
+Pricing,0.00000,5680.97026,2024Q3,FR,0.00000,Subway Paris #32,Paris,JustEat,Subway,82,65+,Male,Reserved,Delivery,299
+Food Quality,0.00000,5680.97026,2024Q3,FR,0.00000,Subway Paris #32,Paris,JustEat,Subway,82,65+,Male,Reserved,Delivery,299
+Customer Service,0.00000,5680.97026,2024Q3,FR,0.00000,Subway Paris #32,Paris,JustEat,Subway,82,65+,Male,Reserved,Delivery,299
+Reservation System,1171.17941,0.00000,2024Q2,US,1171.17941,Burger King New York #79,New York,JustEat,Burger King,45,35-45,Male,Reserved,Delivery,300
+Ambience,1171.17941,0.00000,2024Q2,US,0.00000,Burger King New York #79,New York,JustEat,Burger King,45,35-45,Male,Reserved,Delivery,300
+Service Speed,1171.17941,0.00000,2024Q2,US,0.00000,Burger King New York #79,New York,JustEat,Burger King,45,35-45,Male,Reserved,Delivery,300
+Pricing,0.00000,4469.07065,2024Q2,ES,4469.07065,Subway Madrid #75,Madrid,RestaurantWebsite,Subway,61,55-64,Female,Reserved,Eat In,301
+Reservation System,0.00000,4469.07065,2024Q2,ES,0.00000,Subway Madrid #75,Madrid,RestaurantWebsite,Subway,61,55-64,Female,Reserved,Eat In,301
+Special Features or Experiences,0.00000,4469.07065,2024Q2,ES,0.00000,Subway Madrid #75,Madrid,RestaurantWebsite,Subway,61,55-64,Female,Reserved,Eat In,301
+Pricing,0.00000,3932.67441,2024Q2,FR,3932.67441,Chipotle Paris #74,Paris,UberEats,Chipotle,22,18-24,Male,Reserved,Delivery,302
+Location & Accessibility,0.00000,3932.67441,2024Q2,FR,0.00000,Chipotle Paris #74,Paris,UberEats,Chipotle,22,18-24,Male,Reserved,Delivery,302
+Special Features or Experiences,0.00000,3932.67441,2024Q2,FR,0.00000,Chipotle Paris #74,Paris,UberEats,Chipotle,22,18-24,Male,Reserved,Delivery,302
+Special Features or Experiences,5483.28254,0.00000,2024Q3,DE,5483.28254,KFC Berlin #90,Berlin,OpenTable,KFC,68,65+,Female,Reserved,Eat In,303
+Food Quality,5483.28254,0.00000,2024Q3,DE,0.00000,KFC Berlin #90,Berlin,OpenTable,KFC,68,65+,Female,Reserved,Eat In,303
+Reservation System,5483.28254,0.00000,2024Q3,DE,0.00000,KFC Berlin #90,Berlin,OpenTable,KFC,68,65+,Female,Reserved,Eat In,303
+Ambience,7872.56953,0.00000,2024Q3,IT,7872.56953,Subway Rome #71,Rome,UberEats,Subway,35,35-45,Female,Reserved,Delivery,304
+Menu Variety,7872.56953,0.00000,2024Q3,IT,0.00000,Subway Rome #71,Rome,UberEats,Subway,35,35-45,Female,Reserved,Delivery,304
+Reservation System,7872.56953,0.00000,2024Q3,IT,0.00000,Subway Rome #71,Rome,UberEats,Subway,35,35-45,Female,Reserved,Delivery,304
+Customer Service,7872.56953,0.00000,2024Q3,IT,0.00000,Subway Rome #71,Rome,UberEats,Subway,35,35-45,Female,Reserved,Delivery,304
+Customer Service,0.00000,1195.16313,2024Q3,US,1195.16313,McDonald's New York #47,New York,OpenTable,McDonald's,35,35-45,Female,Reserved,Eat In,305
+Ambience,1453.99319,0.00000,2024Q2,US,1453.99319,Subway New York #95,New York,UberEats,Subway,18,18-24,Female,Reserved,Delivery,306
+Location & Accessibility,7248.67869,0.00000,2024Q3,US,7248.67869,Subway New York #16,New York,Deliveroo,Subway,38,35-45,Male,Reserved,Delivery,307
+Ambience,7248.67869,0.00000,2024Q3,US,0.00000,Subway New York #16,New York,Deliveroo,Subway,38,35-45,Male,Reserved,Delivery,307
+Service Speed,7248.67869,0.00000,2024Q3,US,0.00000,Subway New York #16,New York,Deliveroo,Subway,38,35-45,Male,Reserved,Delivery,307
+Hygiene & Cleanliness,7248.67869,0.00000,2024Q3,US,0.00000,Subway New York #16,New York,Deliveroo,Subway,38,35-45,Male,Reserved,Delivery,307
+Special Features or Experiences,7940.11092,0.00000,2024Q2,US,7940.11092,Chipotle New York #47,New York,OpenTable,Chipotle,58,55-64,Male,Reserved,Eat In,308
+Service Speed,7405.05855,0.00000,2024Q2,US,7405.05855,Burger King New York #9,New York,UberEats,Burger King,77,65+,Female,Reserved,Delivery,309
+Location & Accessibility,7405.05855,0.00000,2024Q2,US,0.00000,Burger King New York #9,New York,UberEats,Burger King,77,65+,Female,Reserved,Delivery,309
+Food Quality,8285.13383,0.00000,2024Q3,FR,8285.13383,Burger King Paris #49,Paris,JustEat,Burger King,33,25-34,Male,Reserved,Delivery,310
+Service Speed,8285.13383,0.00000,2024Q3,FR,0.00000,Burger King Paris #49,Paris,JustEat,Burger King,33,25-34,Male,Reserved,Delivery,310
+Service Speed,0.00000,1666.29784,2024Q2,ES,1666.29784,Burger King Madrid #45,Madrid,JustEat,Burger King,64,55-64,Male,Reserved,Delivery,311
+Special Features or Experiences,0.00000,1666.29784,2024Q2,ES,0.00000,Burger King Madrid #45,Madrid,JustEat,Burger King,64,55-64,Male,Reserved,Delivery,311
+Pricing,0.00000,1666.29784,2024Q2,ES,0.00000,Burger King Madrid #45,Madrid,JustEat,Burger King,64,55-64,Male,Reserved,Delivery,311
+Ambience,0.00000,1666.29784,2024Q2,ES,0.00000,Burger King Madrid #45,Madrid,JustEat,Burger King,64,55-64,Male,Reserved,Delivery,311
+Food Quality,2400.61514,0.00000,2024Q2,UK,2400.61514,Chipotle London #56,London,Deliveroo,Chipotle,74,65+,Female,Reserved,Delivery,312
+Reservation System,2400.61514,0.00000,2024Q2,UK,0.00000,Chipotle London #56,London,Deliveroo,Chipotle,74,65+,Female,Reserved,Delivery,312
+Customer Service,3270.21678,0.00000,2024Q3,US,3270.21678,Burger King New York #4,New York,JustEat,Burger King,27,25-34,Female,Reserved,Delivery,313
+Service Speed,0.00000,8006.03087,2024Q2,US,8006.03087,McDonald's New York #6,New York,Deliveroo,McDonald's,60,55-64,Male,Reserved,Delivery,314
+Special Features or Experiences,0.00000,8006.03087,2024Q2,US,0.00000,McDonald's New York #6,New York,Deliveroo,McDonald's,60,55-64,Male,Reserved,Delivery,314
+Customer Service,0.00000,8006.03087,2024Q2,US,0.00000,McDonald's New York #6,New York,Deliveroo,McDonald's,60,55-64,Male,Reserved,Delivery,314
+Pricing,0.00000,8006.03087,2024Q2,US,0.00000,McDonald's New York #6,New York,Deliveroo,McDonald's,60,55-64,Male,Reserved,Delivery,314
+Location & Accessibility,0.00000,4708.68844,2024Q3,IT,4708.68844,KFC Rome #34,Rome,Deliveroo,KFC,63,55-64,Male,Reserved,Delivery,315
+Reservation System,0.00000,4708.68844,2024Q3,IT,0.00000,KFC Rome #34,Rome,Deliveroo,KFC,63,55-64,Male,Reserved,Delivery,315
+Pricing,0.00000,4708.68844,2024Q3,IT,0.00000,KFC Rome #34,Rome,Deliveroo,KFC,63,55-64,Male,Reserved,Delivery,315
+Customer Service,0.00000,4708.68844,2024Q3,IT,0.00000,KFC Rome #34,Rome,Deliveroo,KFC,63,55-64,Male,Reserved,Delivery,315
+Special Features or Experiences,5088.58656,0.00000,2024Q3,FR,5088.58656,McDonald's Paris #52,Paris,OpenTable,McDonald's,27,25-34,Female,Reserved,Eat In,316
+Hygiene & Cleanliness,5088.58656,0.00000,2024Q3,FR,0.00000,McDonald's Paris #52,Paris,OpenTable,McDonald's,27,25-34,Female,Reserved,Eat In,316
+Reservation System,5088.58656,0.00000,2024Q3,FR,0.00000,McDonald's Paris #52,Paris,OpenTable,McDonald's,27,25-34,Female,Reserved,Eat In,316
+Menu Variety,5088.58656,0.00000,2024Q3,FR,0.00000,McDonald's Paris #52,Paris,OpenTable,McDonald's,27,25-34,Female,Reserved,Eat In,316
+Customer Service,9889.64624,0.00000,2024Q3,ES,9889.64624,Burger King Madrid #20,Madrid,JustEat,Burger King,78,65+,Male,Reserved,Delivery,317
+Customer Service,6655.89711,0.00000,2024Q2,IT,6655.89711,Chipotle Rome #52,Rome,RestaurantWebsite,Chipotle,64,55-64,Male,Walk-In,Eat In,318
+Hygiene & Cleanliness,6655.89711,0.00000,2024Q2,IT,0.00000,Chipotle Rome #52,Rome,RestaurantWebsite,Chipotle,64,55-64,Male,Walk-In,Eat In,318
+Special Features or Experiences,6655.89711,0.00000,2024Q2,IT,0.00000,Chipotle Rome #52,Rome,RestaurantWebsite,Chipotle,64,55-64,Male,Walk-In,Eat In,318
+Location & Accessibility,6655.89711,0.00000,2024Q2,IT,0.00000,Chipotle Rome #52,Rome,RestaurantWebsite,Chipotle,64,55-64,Male,Walk-In,Eat In,318
+Pricing,0.00000,9087.38502,2024Q3,US,9087.38502,KFC New York #51,New York,RestaurantWebsite,KFC,89,65+,Male,Reserved,Eat In,319
+Pricing,3329.54903,0.00000,2024Q3,ES,3329.54903,Burger King Madrid #57,Madrid,Deliveroo,Burger King,64,55-64,Male,Reserved,Delivery,320
+Menu Variety,3329.54903,0.00000,2024Q3,ES,0.00000,Burger King Madrid #57,Madrid,Deliveroo,Burger King,64,55-64,Male,Reserved,Delivery,320
+Special Features or Experiences,3329.54903,0.00000,2024Q3,ES,0.00000,Burger King Madrid #57,Madrid,Deliveroo,Burger King,64,55-64,Male,Reserved,Delivery,320
+Location & Accessibility,3329.54903,0.00000,2024Q3,ES,0.00000,Burger King Madrid #57,Madrid,Deliveroo,Burger King,64,55-64,Male,Reserved,Delivery,320
+Hygiene & Cleanliness,1149.73143,0.00000,2024Q2,FR,1149.73143,Burger King Paris #95,Paris,Deliveroo,Burger King,18,18-24,Female,Reserved,Delivery,321
+Menu Variety,1149.73143,0.00000,2024Q2,FR,0.00000,Burger King Paris #95,Paris,Deliveroo,Burger King,18,18-24,Female,Reserved,Delivery,321
+Special Features or Experiences,1149.73143,0.00000,2024Q2,FR,0.00000,Burger King Paris #95,Paris,Deliveroo,Burger King,18,18-24,Female,Reserved,Delivery,321
+Ambience,2378.24268,0.00000,2024Q3,ES,2378.24268,McDonald's Madrid #7,Madrid,UberEats,McDonald's,38,35-45,Male,Reserved,Delivery,322
+Menu Variety,4173.10551,0.00000,2024Q2,UK,4173.10551,Subway London #85,London,UberEats,Subway,24,18-24,Female,Reserved,Delivery,323
+Customer Service,4173.10551,0.00000,2024Q2,UK,0.00000,Subway London #85,London,UberEats,Subway,24,18-24,Female,Reserved,Delivery,323
+Menu Variety,7880.05651,0.00000,2024Q3,ES,7880.05651,Burger King Madrid #76,Madrid,OpenTable,Burger King,45,35-45,Female,Reserved,Eat In,324
+Location & Accessibility,7880.05651,0.00000,2024Q3,ES,0.00000,Burger King Madrid #76,Madrid,OpenTable,Burger King,45,35-45,Female,Reserved,Eat In,324
+Food Quality,0.00000,4745.13789,2024Q3,US,4745.13789,McDonald's New York #63,New York,Deliveroo,McDonald's,77,65+,Female,Reserved,Delivery,325
+Customer Service,0.00000,4745.13789,2024Q3,US,0.00000,McDonald's New York #63,New York,Deliveroo,McDonald's,77,65+,Female,Reserved,Delivery,325
+Ambience,0.00000,4745.13789,2024Q3,US,0.00000,McDonald's New York #63,New York,Deliveroo,McDonald's,77,65+,Female,Reserved,Delivery,325
+Hygiene & Cleanliness,0.00000,4745.13789,2024Q3,US,0.00000,McDonald's New York #63,New York,Deliveroo,McDonald's,77,65+,Female,Reserved,Delivery,325
+Ambience,2403.56408,0.00000,2024Q2,FR,2403.56408,Subway Paris #60,Paris,RestaurantWebsite,Subway,79,65+,Male,Walk-In,Takeout,326
+Pricing,2403.56408,0.00000,2024Q2,FR,0.00000,Subway Paris #60,Paris,RestaurantWebsite,Subway,79,65+,Male,Walk-In,Takeout,326
+Hygiene & Cleanliness,2403.56408,0.00000,2024Q2,FR,0.00000,Subway Paris #60,Paris,RestaurantWebsite,Subway,79,65+,Male,Walk-In,Takeout,326
+Special Features or Experiences,2403.56408,0.00000,2024Q2,FR,0.00000,Subway Paris #60,Paris,RestaurantWebsite,Subway,79,65+,Male,Walk-In,Takeout,326
+Hygiene & Cleanliness,9656.04151,0.00000,2024Q3,FR,9656.04151,Burger King Paris #43,Paris,JustEat,Burger King,33,25-34,Male,Reserved,Delivery,327
+Food Quality,7091.51750,0.00000,2024Q3,US,7091.51750,Chipotle New York #84,New York,Deliveroo,Chipotle,57,55-64,Male,Reserved,Delivery,328
+Hygiene & Cleanliness,7091.51750,0.00000,2024Q3,US,0.00000,Chipotle New York #84,New York,Deliveroo,Chipotle,57,55-64,Male,Reserved,Delivery,328
+Menu Variety,7091.51750,0.00000,2024Q3,US,0.00000,Chipotle New York #84,New York,Deliveroo,Chipotle,57,55-64,Male,Reserved,Delivery,328
+Customer Service,3929.89873,0.00000,2024Q2,DE,3929.89873,Subway Berlin #87,Berlin,RestaurantWebsite,Subway,43,35-45,Female,Walk-In,Takeout,329
+Customer Service,0.00000,8006.77782,2024Q3,DE,8006.77782,McDonald's Berlin #19,Berlin,OpenTable,McDonald's,36,35-45,Female,Reserved,Eat In,330
+Ambience,0.00000,8006.77782,2024Q3,DE,0.00000,McDonald's Berlin #19,Berlin,OpenTable,McDonald's,36,35-45,Female,Reserved,Eat In,330
+Service Speed,0.00000,8006.77782,2024Q3,DE,0.00000,McDonald's Berlin #19,Berlin,OpenTable,McDonald's,36,35-45,Female,Reserved,Eat In,330
+Location & Accessibility,6998.55071,0.00000,2024Q3,UK,6998.55071,KFC London #8,London,RestaurantWebsite,KFC,89,65+,Male,Walk-In,Takeout,331
+Location & Accessibility,3409.76502,0.00000,2024Q2,DE,3409.76502,Burger King Berlin #58,Berlin,RestaurantWebsite,Burger King,87,65+,Female,Reserved,Delivery,332
+Special Features or Experiences,3409.76502,0.00000,2024Q2,DE,0.00000,Burger King Berlin #58,Berlin,RestaurantWebsite,Burger King,87,65+,Female,Reserved,Delivery,332
+Service Speed,3409.76502,0.00000,2024Q2,DE,0.00000,Burger King Berlin #58,Berlin,RestaurantWebsite,Burger King,87,65+,Female,Reserved,Delivery,332
+Menu Variety,3409.76502,0.00000,2024Q2,DE,0.00000,Burger King Berlin #58,Berlin,RestaurantWebsite,Burger King,87,65+,Female,Reserved,Delivery,332
+Hygiene & Cleanliness,0.00000,8292.31250,2024Q3,US,8292.31250,Subway New York #49,New York,RestaurantWebsite,Subway,19,18-24,Female,Reserved,Eat In,333
+Ambience,0.00000,8292.31250,2024Q3,US,0.00000,Subway New York #49,New York,RestaurantWebsite,Subway,19,18-24,Female,Reserved,Eat In,333
+Customer Service,2245.10632,0.00000,2024Q3,FR,2245.10632,KFC Paris #42,Paris,RestaurantWebsite,KFC,45,35-45,Female,Walk-In,Takeout,334
+Location & Accessibility,2245.10632,0.00000,2024Q3,FR,0.00000,KFC Paris #42,Paris,RestaurantWebsite,KFC,45,35-45,Female,Walk-In,Takeout,334
+Food Quality,2245.10632,0.00000,2024Q3,FR,0.00000,KFC Paris #42,Paris,RestaurantWebsite,KFC,45,35-45,Female,Walk-In,Takeout,334
+Menu Variety,1576.30292,0.00000,2024Q2,FR,1576.30292,McDonald's Paris #76,Paris,JustEat,McDonald's,21,18-24,Female,Reserved,Delivery,335
+Customer Service,0.00000,3882.34688,2024Q3,UK,3882.34688,KFC London #56,London,Deliveroo,KFC,21,18-24,Female,Reserved,Delivery,336
+Location & Accessibility,0.00000,3882.34688,2024Q3,UK,0.00000,KFC London #56,London,Deliveroo,KFC,21,18-24,Female,Reserved,Delivery,336
+Food Quality,0.00000,3882.34688,2024Q3,UK,0.00000,KFC London #56,London,Deliveroo,KFC,21,18-24,Female,Reserved,Delivery,336
+Special Features or Experiences,0.00000,3882.34688,2024Q3,UK,0.00000,KFC London #56,London,Deliveroo,KFC,21,18-24,Female,Reserved,Delivery,336
+Menu Variety,8718.58272,0.00000,2024Q3,US,8718.58272,Chipotle New York #49,New York,Deliveroo,Chipotle,21,18-24,Male,Reserved,Delivery,337
+Reservation System,8718.58272,0.00000,2024Q3,US,0.00000,Chipotle New York #49,New York,Deliveroo,Chipotle,21,18-24,Male,Reserved,Delivery,337
+Hygiene & Cleanliness,8718.58272,0.00000,2024Q3,US,0.00000,Chipotle New York #49,New York,Deliveroo,Chipotle,21,18-24,Male,Reserved,Delivery,337
+Food Quality,2936.54091,0.00000,2024Q3,UK,2936.54091,Burger King London #80,London,Deliveroo,Burger King,45,35-45,Female,Reserved,Delivery,338
+Service Speed,2936.54091,0.00000,2024Q3,UK,0.00000,Burger King London #80,London,Deliveroo,Burger King,45,35-45,Female,Reserved,Delivery,338
+Service Speed,1304.17595,0.00000,2024Q3,FR,1304.17595,McDonald's Paris #72,Paris,OpenTable,McDonald's,45,35-45,Male,Reserved,Eat In,339
+Food Quality,1304.17595,0.00000,2024Q3,FR,0.00000,McDonald's Paris #72,Paris,OpenTable,McDonald's,45,35-45,Male,Reserved,Eat In,339
+Pricing,1304.17595,0.00000,2024Q3,FR,0.00000,McDonald's Paris #72,Paris,OpenTable,McDonald's,45,35-45,Male,Reserved,Eat In,339
+Ambience,9098.56587,0.00000,2024Q2,UK,9098.56587,Burger King London #84,London,OpenTable,Burger King,63,55-64,Male,Reserved,Eat In,340
+Hygiene & Cleanliness,9098.56587,0.00000,2024Q2,UK,0.00000,Burger King London #84,London,OpenTable,Burger King,63,55-64,Male,Reserved,Eat In,340
+Special Features or Experiences,9098.56587,0.00000,2024Q2,UK,0.00000,Burger King London #84,London,OpenTable,Burger King,63,55-64,Male,Reserved,Eat In,340
+Customer Service,9098.56587,0.00000,2024Q2,UK,0.00000,Burger King London #84,London,OpenTable,Burger King,63,55-64,Male,Reserved,Eat In,340
+Food Quality,4490.90032,0.00000,2024Q2,DE,4490.90032,Burger King Berlin #6,Berlin,RestaurantWebsite,Burger King,19,18-24,Female,Reserved,Delivery,341
+Special Features or Experiences,4490.90032,0.00000,2024Q2,DE,0.00000,Burger King Berlin #6,Berlin,RestaurantWebsite,Burger King,19,18-24,Female,Reserved,Delivery,341
+Location & Accessibility,4490.90032,0.00000,2024Q2,DE,0.00000,Burger King Berlin #6,Berlin,RestaurantWebsite,Burger King,19,18-24,Female,Reserved,Delivery,341
+Menu Variety,4490.90032,0.00000,2024Q2,DE,0.00000,Burger King Berlin #6,Berlin,RestaurantWebsite,Burger King,19,18-24,Female,Reserved,Delivery,341
+Hygiene & Cleanliness,5301.52387,0.00000,2024Q3,UK,5301.52387,Burger King London #58,London,Deliveroo,Burger King,28,25-34,Female,Reserved,Delivery,342
+Ambience,5301.52387,0.00000,2024Q3,UK,0.00000,Burger King London #58,London,Deliveroo,Burger King,28,25-34,Female,Reserved,Delivery,342
+Service Speed,5301.52387,0.00000,2024Q3,UK,0.00000,Burger King London #58,London,Deliveroo,Burger King,28,25-34,Female,Reserved,Delivery,342
+Customer Service,8901.01708,0.00000,2024Q2,UK,8901.01708,Subway London #14,London,OpenTable,Subway,62,55-64,Female,Reserved,Eat In,343
+Food Quality,8901.01708,0.00000,2024Q2,UK,0.00000,Subway London #14,London,OpenTable,Subway,62,55-64,Female,Reserved,Eat In,343
+Ambience,8901.01708,0.00000,2024Q2,UK,0.00000,Subway London #14,London,OpenTable,Subway,62,55-64,Female,Reserved,Eat In,343
+Food Quality,0.00000,4946.08054,2024Q2,ES,4946.08054,Burger King Madrid #66,Madrid,Deliveroo,Burger King,30,25-34,Female,Reserved,Delivery,344
+Reservation System,0.00000,4946.08054,2024Q2,ES,0.00000,Burger King Madrid #66,Madrid,Deliveroo,Burger King,30,25-34,Female,Reserved,Delivery,344
+Food Quality,9781.69712,0.00000,2024Q3,FR,9781.69712,Subway Paris #50,Paris,Deliveroo,Subway,26,25-34,Male,Reserved,Delivery,345
+Menu Variety,7794.46748,0.00000,2024Q2,FR,7794.46748,Subway Paris #19,Paris,RestaurantWebsite,Subway,77,65+,Female,Walk-In,Takeout,346
+Reservation System,7794.46748,0.00000,2024Q2,FR,0.00000,Subway Paris #19,Paris,RestaurantWebsite,Subway,77,65+,Female,Walk-In,Takeout,346
+Food Quality,7794.46748,0.00000,2024Q2,FR,0.00000,Subway Paris #19,Paris,RestaurantWebsite,Subway,77,65+,Female,Walk-In,Takeout,346
+Pricing,0.00000,9418.85734,2024Q2,FR,9418.85734,KFC Paris #38,Paris,Deliveroo,KFC,88,65+,Female,Reserved,Delivery,347
+Food Quality,0.00000,9418.85734,2024Q2,FR,0.00000,KFC Paris #38,Paris,Deliveroo,KFC,88,65+,Female,Reserved,Delivery,347
+Customer Service,0.00000,9418.85734,2024Q2,FR,0.00000,KFC Paris #38,Paris,Deliveroo,KFC,88,65+,Female,Reserved,Delivery,347
+Pricing,3726.11291,0.00000,2024Q3,UK,3726.11291,Subway London #97,London,JustEat,Subway,22,18-24,Male,Reserved,Delivery,348
+Special Features or Experiences,3726.11291,0.00000,2024Q3,UK,0.00000,Subway London #97,London,JustEat,Subway,22,18-24,Male,Reserved,Delivery,348
+Reservation System,2597.74979,0.00000,2024Q2,FR,2597.74979,KFC Paris #67,Paris,OpenTable,KFC,20,18-24,Male,Reserved,Eat In,349
+Special Features or Experiences,2597.74979,0.00000,2024Q2,FR,0.00000,KFC Paris #67,Paris,OpenTable,KFC,20,18-24,Male,Reserved,Eat In,349
+Pricing,0.00000,3385.12220,2024Q2,FR,3385.12220,Subway Paris #61,Paris,RestaurantWebsite,Subway,30,25-34,Female,Reserved,Delivery,350
+Hygiene & Cleanliness,0.00000,3385.12220,2024Q2,FR,0.00000,Subway Paris #61,Paris,RestaurantWebsite,Subway,30,25-34,Female,Reserved,Delivery,350
+Reservation System,0.00000,3385.12220,2024Q2,FR,0.00000,Subway Paris #61,Paris,RestaurantWebsite,Subway,30,25-34,Female,Reserved,Delivery,350
+Special Features or Experiences,0.00000,9851.76126,2024Q3,UK,9851.76126,Subway London #65,London,JustEat,Subway,24,18-24,Male,Reserved,Delivery,351
+Customer Service,0.00000,9851.76126,2024Q3,UK,0.00000,Subway London #65,London,JustEat,Subway,24,18-24,Male,Reserved,Delivery,351
+Service Speed,0.00000,9851.76126,2024Q3,UK,0.00000,Subway London #65,London,JustEat,Subway,24,18-24,Male,Reserved,Delivery,351
+Location & Accessibility,0.00000,9851.76126,2024Q3,UK,0.00000,Subway London #65,London,JustEat,Subway,24,18-24,Male,Reserved,Delivery,351
+Special Features or Experiences,0.00000,3674.59061,2024Q2,US,3674.59061,KFC New York #15,New York,RestaurantWebsite,KFC,22,18-24,Male,Reserved,Delivery,352
+Pricing,0.00000,3674.59061,2024Q2,US,0.00000,KFC New York #15,New York,RestaurantWebsite,KFC,22,18-24,Male,Reserved,Delivery,352
+Hygiene & Cleanliness,0.00000,3674.59061,2024Q2,US,0.00000,KFC New York #15,New York,RestaurantWebsite,KFC,22,18-24,Male,Reserved,Delivery,352
+Menu Variety,1315.53025,0.00000,2024Q3,ES,1315.53025,Subway Madrid #62,Madrid,Deliveroo,Subway,27,25-34,Female,Reserved,Delivery,353
+Special Features or Experiences,6134.80780,0.00000,2024Q3,IT,6134.80780,Burger King Rome #64,Rome,Deliveroo,Burger King,20,18-24,Female,Reserved,Delivery,354
+Pricing,6134.80780,0.00000,2024Q3,IT,0.00000,Burger King Rome #64,Rome,Deliveroo,Burger King,20,18-24,Female,Reserved,Delivery,354
+Food Quality,6134.80780,0.00000,2024Q3,IT,0.00000,Burger King Rome #64,Rome,Deliveroo,Burger King,20,18-24,Female,Reserved,Delivery,354
+Service Speed,6134.80780,0.00000,2024Q3,IT,0.00000,Burger King Rome #64,Rome,Deliveroo,Burger King,20,18-24,Female,Reserved,Delivery,354
+Ambience,0.00000,8585.68060,2024Q2,ES,8585.68060,Chipotle Madrid #16,Madrid,RestaurantWebsite,Chipotle,59,55-64,Female,Reserved,Delivery,355
+Pricing,0.00000,8585.68060,2024Q2,ES,0.00000,Chipotle Madrid #16,Madrid,RestaurantWebsite,Chipotle,59,55-64,Female,Reserved,Delivery,355
+Special Features or Experiences,0.00000,8585.68060,2024Q2,ES,0.00000,Chipotle Madrid #16,Madrid,RestaurantWebsite,Chipotle,59,55-64,Female,Reserved,Delivery,355
+Location & Accessibility,0.00000,6143.35221,2024Q3,UK,6143.35221,McDonald's London #52,London,UberEats,McDonald's,28,25-34,Male,Reserved,Delivery,356
+Ambience,0.00000,6143.35221,2024Q3,UK,0.00000,McDonald's London #52,London,UberEats,McDonald's,28,25-34,Male,Reserved,Delivery,356
+Food Quality,0.00000,6143.35221,2024Q3,UK,0.00000,McDonald's London #52,London,UberEats,McDonald's,28,25-34,Male,Reserved,Delivery,356
+Customer Service,0.00000,6070.19719,2024Q2,FR,6070.19719,Subway Paris #43,Paris,OpenTable,Subway,82,65+,Male,Reserved,Eat In,357
+Special Features or Experiences,3905.79396,0.00000,2024Q3,IT,3905.79396,McDonald's Rome #80,Rome,JustEat,McDonald's,80,65+,Male,Reserved,Delivery,358
+Menu Variety,3905.79396,0.00000,2024Q3,IT,0.00000,McDonald's Rome #80,Rome,JustEat,McDonald's,80,65+,Male,Reserved,Delivery,358
+Reservation System,3905.79396,0.00000,2024Q3,IT,0.00000,McDonald's Rome #80,Rome,JustEat,McDonald's,80,65+,Male,Reserved,Delivery,358
+Food Quality,6391.49906,0.00000,2024Q3,FR,6391.49906,McDonald's Paris #59,Paris,RestaurantWebsite,McDonald's,25,25-34,Female,Walk-In,Takeout,359
+Pricing,6391.49906,0.00000,2024Q3,FR,0.00000,McDonald's Paris #59,Paris,RestaurantWebsite,McDonald's,25,25-34,Female,Walk-In,Takeout,359
+Menu Variety,6391.49906,0.00000,2024Q3,FR,0.00000,McDonald's Paris #59,Paris,RestaurantWebsite,McDonald's,25,25-34,Female,Walk-In,Takeout,359
+Location & Accessibility,6391.49906,0.00000,2024Q3,FR,0.00000,McDonald's Paris #59,Paris,RestaurantWebsite,McDonald's,25,25-34,Female,Walk-In,Takeout,359
+Ambience,8523.53791,0.00000,2024Q3,DE,8523.53791,Chipotle Berlin #64,Berlin,RestaurantWebsite,Chipotle,57,55-64,Male,Reserved,Delivery,360
+Location & Accessibility,8523.53791,0.00000,2024Q3,DE,0.00000,Chipotle Berlin #64,Berlin,RestaurantWebsite,Chipotle,57,55-64,Male,Reserved,Delivery,360
+Service Speed,8523.53791,0.00000,2024Q3,DE,0.00000,Chipotle Berlin #64,Berlin,RestaurantWebsite,Chipotle,57,55-64,Male,Reserved,Delivery,360
+Ambience,4703.42373,0.00000,2024Q3,UK,4703.42373,KFC London #50,London,OpenTable,KFC,38,35-45,Male,Reserved,Eat In,361
+Reservation System,4703.42373,0.00000,2024Q3,UK,0.00000,KFC London #50,London,OpenTable,KFC,38,35-45,Male,Reserved,Eat In,361
+Hygiene & Cleanliness,4703.42373,0.00000,2024Q3,UK,0.00000,KFC London #50,London,OpenTable,KFC,38,35-45,Male,Reserved,Eat In,361
+Food Quality,2243.52766,0.00000,2024Q2,UK,2243.52766,KFC London #1,London,RestaurantWebsite,KFC,63,55-64,Male,Walk-In,Takeout,362
+Pricing,2243.52766,0.00000,2024Q2,UK,0.00000,KFC London #1,London,RestaurantWebsite,KFC,63,55-64,Male,Walk-In,Takeout,362
+Service Speed,2243.52766,0.00000,2024Q2,UK,0.00000,KFC London #1,London,RestaurantWebsite,KFC,63,55-64,Male,Walk-In,Takeout,362
+Menu Variety,2243.52766,0.00000,2024Q2,UK,0.00000,KFC London #1,London,RestaurantWebsite,KFC,63,55-64,Male,Walk-In,Takeout,362
+Location & Accessibility,6725.66353,0.00000,2024Q2,ES,6725.66353,Subway Madrid #62,Madrid,OpenTable,Subway,27,25-34,Female,Reserved,Eat In,363
+Location & Accessibility,0.00000,5016.46352,2024Q3,IT,5016.46352,McDonald's Rome #3,Rome,UberEats,McDonald's,74,65+,Male,Reserved,Delivery,364
+Service Speed,0.00000,5016.46352,2024Q3,IT,0.00000,McDonald's Rome #3,Rome,UberEats,McDonald's,74,65+,Male,Reserved,Delivery,364
+Special Features or Experiences,1308.67477,0.00000,2024Q2,UK,1308.67477,Burger King London #98,London,JustEat,Burger King,29,25-34,Female,Reserved,Delivery,365
+Food Quality,1308.67477,0.00000,2024Q2,UK,0.00000,Burger King London #98,London,JustEat,Burger King,29,25-34,Female,Reserved,Delivery,365
+Service Speed,3570.47307,0.00000,2024Q3,DE,3570.47307,McDonald's Berlin #57,Berlin,OpenTable,McDonald's,56,55-64,Female,Reserved,Eat In,366
+Location & Accessibility,3570.47307,0.00000,2024Q3,DE,0.00000,McDonald's Berlin #57,Berlin,OpenTable,McDonald's,56,55-64,Female,Reserved,Eat In,366
+Ambience,3570.47307,0.00000,2024Q3,DE,0.00000,McDonald's Berlin #57,Berlin,OpenTable,McDonald's,56,55-64,Female,Reserved,Eat In,366
+Reservation System,3570.47307,0.00000,2024Q3,DE,0.00000,McDonald's Berlin #57,Berlin,OpenTable,McDonald's,56,55-64,Female,Reserved,Eat In,366
+Menu Variety,8058.43599,0.00000,2024Q3,DE,8058.43599,Burger King Berlin #81,Berlin,JustEat,Burger King,21,18-24,Male,Reserved,Delivery,367
+Hygiene & Cleanliness,8058.43599,0.00000,2024Q3,DE,0.00000,Burger King Berlin #81,Berlin,JustEat,Burger King,21,18-24,Male,Reserved,Delivery,367
+Food Quality,8058.43599,0.00000,2024Q3,DE,0.00000,Burger King Berlin #81,Berlin,JustEat,Burger King,21,18-24,Male,Reserved,Delivery,367
+Special Features or Experiences,8058.43599,0.00000,2024Q3,DE,0.00000,Burger King Berlin #81,Berlin,JustEat,Burger King,21,18-24,Male,Reserved,Delivery,367
+Special Features or Experiences,1195.89716,0.00000,2024Q3,ES,1195.89716,Chipotle Madrid #27,Madrid,Deliveroo,Chipotle,34,25-34,Female,Reserved,Delivery,368
+Ambience,1195.89716,0.00000,2024Q3,ES,0.00000,Chipotle Madrid #27,Madrid,Deliveroo,Chipotle,34,25-34,Female,Reserved,Delivery,368
+Pricing,1195.89716,0.00000,2024Q3,ES,0.00000,Chipotle Madrid #27,Madrid,Deliveroo,Chipotle,34,25-34,Female,Reserved,Delivery,368
+Service Speed,1195.89716,0.00000,2024Q3,ES,0.00000,Chipotle Madrid #27,Madrid,Deliveroo,Chipotle,34,25-34,Female,Reserved,Delivery,368
+Location & Accessibility,0.00000,4198.08281,2024Q3,ES,4198.08281,KFC Madrid #54,Madrid,RestaurantWebsite,KFC,45,35-45,Female,Reserved,Delivery,369
+Location & Accessibility,4853.15276,0.00000,2024Q2,FR,4853.15276,McDonald's Paris #13,Paris,JustEat,McDonald's,30,25-34,Male,Reserved,Delivery,370
+Hygiene & Cleanliness,4853.15276,0.00000,2024Q2,FR,0.00000,McDonald's Paris #13,Paris,JustEat,McDonald's,30,25-34,Male,Reserved,Delivery,370
+Reservation System,4853.15276,0.00000,2024Q2,FR,0.00000,McDonald's Paris #13,Paris,JustEat,McDonald's,30,25-34,Male,Reserved,Delivery,370
+Customer Service,3091.49051,0.00000,2024Q3,US,3091.49051,KFC New York #11,New York,Deliveroo,KFC,38,35-45,Female,Reserved,Delivery,371
+Pricing,3091.49051,0.00000,2024Q3,US,0.00000,KFC New York #11,New York,Deliveroo,KFC,38,35-45,Female,Reserved,Delivery,371
+Location & Accessibility,3091.49051,0.00000,2024Q3,US,0.00000,KFC New York #11,New York,Deliveroo,KFC,38,35-45,Female,Reserved,Delivery,371
+Service Speed,8962.92016,0.00000,2024Q3,US,8962.92016,Subway New York #32,New York,Deliveroo,Subway,24,18-24,Male,Reserved,Delivery,372
+Menu Variety,8962.92016,0.00000,2024Q3,US,0.00000,Subway New York #32,New York,Deliveroo,Subway,24,18-24,Male,Reserved,Delivery,372
+Location & Accessibility,8962.92016,0.00000,2024Q3,US,0.00000,Subway New York #32,New York,Deliveroo,Subway,24,18-24,Male,Reserved,Delivery,372
+Menu Variety,7506.76661,0.00000,2024Q3,DE,7506.76661,McDonald's Berlin #76,Berlin,RestaurantWebsite,McDonald's,66,65+,Female,Walk-In,Eat In,373
+Reservation System,7506.76661,0.00000,2024Q3,DE,0.00000,McDonald's Berlin #76,Berlin,RestaurantWebsite,McDonald's,66,65+,Female,Walk-In,Eat In,373
+Ambience,7506.76661,0.00000,2024Q3,DE,0.00000,McDonald's Berlin #76,Berlin,RestaurantWebsite,McDonald's,66,65+,Female,Walk-In,Eat In,373
+Menu Variety,7866.89077,0.00000,2024Q3,ES,7866.89077,Chipotle Madrid #54,Madrid,RestaurantWebsite,Chipotle,56,55-64,Male,Walk-In,Takeout,374
+Location & Accessibility,7866.89077,0.00000,2024Q3,ES,0.00000,Chipotle Madrid #54,Madrid,RestaurantWebsite,Chipotle,56,55-64,Male,Walk-In,Takeout,374
+Customer Service,3709.31255,0.00000,2024Q3,DE,3709.31255,Chipotle Berlin #86,Berlin,OpenTable,Chipotle,60,55-64,Female,Reserved,Eat In,375
+Pricing,3709.31255,0.00000,2024Q3,DE,0.00000,Chipotle Berlin #86,Berlin,OpenTable,Chipotle,60,55-64,Female,Reserved,Eat In,375
+Food Quality,3709.31255,0.00000,2024Q3,DE,0.00000,Chipotle Berlin #86,Berlin,OpenTable,Chipotle,60,55-64,Female,Reserved,Eat In,375
+Location & Accessibility,3709.31255,0.00000,2024Q3,DE,0.00000,Chipotle Berlin #86,Berlin,OpenTable,Chipotle,60,55-64,Female,Reserved,Eat In,375
+Hygiene & Cleanliness,3503.14714,0.00000,2024Q3,IT,3503.14714,Burger King Rome #51,Rome,RestaurantWebsite,Burger King,27,25-34,Male,Reserved,Delivery,376
+Ambience,3503.14714,0.00000,2024Q3,IT,0.00000,Burger King Rome #51,Rome,RestaurantWebsite,Burger King,27,25-34,Male,Reserved,Delivery,376
+Customer Service,3503.14714,0.00000,2024Q3,IT,0.00000,Burger King Rome #51,Rome,RestaurantWebsite,Burger King,27,25-34,Male,Reserved,Delivery,376
+Location & Accessibility,3503.14714,0.00000,2024Q3,IT,0.00000,Burger King Rome #51,Rome,RestaurantWebsite,Burger King,27,25-34,Male,Reserved,Delivery,376
+Customer Service,9106.30660,0.00000,2024Q3,ES,9106.30660,McDonald's Madrid #57,Madrid,RestaurantWebsite,McDonald's,55,55-64,Male,Walk-In,Takeout,377
+Menu Variety,0.00000,7682.91726,2024Q3,US,7682.91726,Burger King New York #71,New York,Deliveroo,Burger King,59,55-64,Female,Reserved,Delivery,378
+Menu Variety,8667.93341,0.00000,2024Q3,IT,8667.93341,KFC Rome #48,Rome,OpenTable,KFC,41,35-45,Female,Reserved,Eat In,379
+Hygiene & Cleanliness,0.00000,9701.00412,2024Q2,UK,9701.00412,Burger King London #61,London,RestaurantWebsite,Burger King,38,35-45,Female,Walk-In,Eat In,380
+Special Features or Experiences,9421.75730,0.00000,2024Q3,IT,9421.75730,Chipotle Rome #22,Rome,RestaurantWebsite,Chipotle,18,18-24,Female,Reserved,Delivery,381
+Menu Variety,9421.75730,0.00000,2024Q3,IT,0.00000,Chipotle Rome #22,Rome,RestaurantWebsite,Chipotle,18,18-24,Female,Reserved,Delivery,381
+Location & Accessibility,9421.75730,0.00000,2024Q3,IT,0.00000,Chipotle Rome #22,Rome,RestaurantWebsite,Chipotle,18,18-24,Female,Reserved,Delivery,381
+Pricing,9421.75730,0.00000,2024Q3,IT,0.00000,Chipotle Rome #22,Rome,RestaurantWebsite,Chipotle,18,18-24,Female,Reserved,Delivery,381
+Food Quality,0.00000,6142.57116,2024Q2,UK,6142.57116,KFC London #37,London,JustEat,KFC,76,65+,Female,Reserved,Delivery,382
+Hygiene & Cleanliness,0.00000,6142.57116,2024Q2,UK,0.00000,KFC London #37,London,JustEat,KFC,76,65+,Female,Reserved,Delivery,382
+Pricing,4296.37588,0.00000,2024Q3,UK,4296.37588,KFC London #1,London,OpenTable,KFC,81,65+,Male,Reserved,Eat In,383
+Customer Service,4296.37588,0.00000,2024Q3,UK,0.00000,KFC London #1,London,OpenTable,KFC,81,65+,Male,Reserved,Eat In,383
+Hygiene & Cleanliness,4296.37588,0.00000,2024Q3,UK,0.00000,KFC London #1,London,OpenTable,KFC,81,65+,Male,Reserved,Eat In,383
+Location & Accessibility,7260.30962,0.00000,2024Q2,DE,7260.30962,McDonald's Berlin #92,Berlin,JustEat,McDonald's,24,18-24,Female,Reserved,Delivery,384
+Special Features or Experiences,7260.30962,0.00000,2024Q2,DE,0.00000,McDonald's Berlin #92,Berlin,JustEat,McDonald's,24,18-24,Female,Reserved,Delivery,384
+Menu Variety,7260.30962,0.00000,2024Q2,DE,0.00000,McDonald's Berlin #92,Berlin,JustEat,McDonald's,24,18-24,Female,Reserved,Delivery,384
+Food Quality,0.00000,7983.13860,2024Q2,ES,7983.13860,Subway Madrid #81,Madrid,RestaurantWebsite,Subway,19,18-24,Female,Reserved,Delivery,385
+Reservation System,0.00000,7983.13860,2024Q2,ES,0.00000,Subway Madrid #81,Madrid,RestaurantWebsite,Subway,19,18-24,Female,Reserved,Delivery,385
+Pricing,0.00000,7983.13860,2024Q2,ES,0.00000,Subway Madrid #81,Madrid,RestaurantWebsite,Subway,19,18-24,Female,Reserved,Delivery,385
+Location & Accessibility,9483.12614,0.00000,2024Q2,UK,9483.12614,Burger King London #71,London,Deliveroo,Burger King,63,55-64,Male,Reserved,Delivery,386
+Menu Variety,9483.12614,0.00000,2024Q2,UK,0.00000,Burger King London #71,London,Deliveroo,Burger King,63,55-64,Male,Reserved,Delivery,386
+Hygiene & Cleanliness,9483.12614,0.00000,2024Q2,UK,0.00000,Burger King London #71,London,Deliveroo,Burger King,63,55-64,Male,Reserved,Delivery,386
+Customer Service,3552.54681,0.00000,2024Q3,IT,3552.54681,McDonald's Rome #55,Rome,UberEats,McDonald's,28,25-34,Male,Reserved,Delivery,387
+Hygiene & Cleanliness,5911.27524,0.00000,2024Q2,IT,5911.27524,Chipotle Rome #13,Rome,UberEats,Chipotle,67,65+,Female,Reserved,Delivery,388
+Reservation System,5911.27524,0.00000,2024Q2,IT,0.00000,Chipotle Rome #13,Rome,UberEats,Chipotle,67,65+,Female,Reserved,Delivery,388
+Pricing,4010.15950,0.00000,2024Q3,US,4010.15950,KFC New York #1,New York,Deliveroo,KFC,59,55-64,Male,Reserved,Delivery,389
+Special Features or Experiences,4010.15950,0.00000,2024Q3,US,0.00000,KFC New York #1,New York,Deliveroo,KFC,59,55-64,Male,Reserved,Delivery,389
+Location & Accessibility,4010.15950,0.00000,2024Q3,US,0.00000,KFC New York #1,New York,Deliveroo,KFC,59,55-64,Male,Reserved,Delivery,389
+Ambience,4010.15950,0.00000,2024Q3,US,0.00000,KFC New York #1,New York,Deliveroo,KFC,59,55-64,Male,Reserved,Delivery,389
+Service Speed,3621.82561,0.00000,2024Q2,ES,3621.82561,Chipotle Madrid #16,Madrid,Deliveroo,Chipotle,56,55-64,Female,Reserved,Delivery,390
+Special Features or Experiences,6761.31440,0.00000,2024Q2,FR,6761.31440,KFC Paris #85,Paris,Deliveroo,KFC,30,25-34,Female,Reserved,Delivery,391
+Food Quality,6761.31440,0.00000,2024Q2,FR,0.00000,KFC Paris #85,Paris,Deliveroo,KFC,30,25-34,Female,Reserved,Delivery,391
+Location & Accessibility,6761.31440,0.00000,2024Q2,FR,0.00000,KFC Paris #85,Paris,Deliveroo,KFC,30,25-34,Female,Reserved,Delivery,391
+Ambience,6761.31440,0.00000,2024Q2,FR,0.00000,KFC Paris #85,Paris,Deliveroo,KFC,30,25-34,Female,Reserved,Delivery,391
+Food Quality,4421.66832,0.00000,2024Q2,US,4421.66832,Subway New York #10,New York,RestaurantWebsite,Subway,39,35-45,Female,Reserved,Delivery,392
+Menu Variety,4421.66832,0.00000,2024Q2,US,0.00000,Subway New York #10,New York,RestaurantWebsite,Subway,39,35-45,Female,Reserved,Delivery,392
+Special Features or Experiences,4421.66832,0.00000,2024Q2,US,0.00000,Subway New York #10,New York,RestaurantWebsite,Subway,39,35-45,Female,Reserved,Delivery,392
+Customer Service,4151.80674,0.00000,2024Q2,US,4151.80674,Burger King New York #49,New York,UberEats,Burger King,30,25-34,Female,Reserved,Delivery,393
+Ambience,4151.80674,0.00000,2024Q2,US,0.00000,Burger King New York #49,New York,UberEats,Burger King,30,25-34,Female,Reserved,Delivery,393
+Location & Accessibility,4151.80674,0.00000,2024Q2,US,0.00000,Burger King New York #49,New York,UberEats,Burger King,30,25-34,Female,Reserved,Delivery,393
+Location & Accessibility,2962.28001,0.00000,2024Q2,UK,2962.28001,Chipotle London #9,London,Deliveroo,Chipotle,38,35-45,Male,Reserved,Delivery,394
+Ambience,2962.28001,0.00000,2024Q2,UK,0.00000,Chipotle London #9,London,Deliveroo,Chipotle,38,35-45,Male,Reserved,Delivery,394
+Service Speed,2962.28001,0.00000,2024Q2,UK,0.00000,Chipotle London #9,London,Deliveroo,Chipotle,38,35-45,Male,Reserved,Delivery,394
+Reservation System,2962.28001,0.00000,2024Q2,UK,0.00000,Chipotle London #9,London,Deliveroo,Chipotle,38,35-45,Male,Reserved,Delivery,394
+Location & Accessibility,1112.05787,0.00000,2024Q2,UK,1112.05787,Chipotle London #16,London,JustEat,Chipotle,37,35-45,Male,Reserved,Delivery,395
+Menu Variety,1112.05787,0.00000,2024Q2,UK,0.00000,Chipotle London #16,London,JustEat,Chipotle,37,35-45,Male,Reserved,Delivery,395
+Reservation System,1112.05787,0.00000,2024Q2,UK,0.00000,Chipotle London #16,London,JustEat,Chipotle,37,35-45,Male,Reserved,Delivery,395
+Hygiene & Cleanliness,1112.05787,0.00000,2024Q2,UK,0.00000,Chipotle London #16,London,JustEat,Chipotle,37,35-45,Male,Reserved,Delivery,395
+Hygiene & Cleanliness,2063.39145,0.00000,2024Q2,FR,2063.39145,KFC Paris #7,Paris,Deliveroo,KFC,58,55-64,Female,Reserved,Delivery,396
+Menu Variety,2063.39145,0.00000,2024Q2,FR,0.00000,KFC Paris #7,Paris,Deliveroo,KFC,58,55-64,Female,Reserved,Delivery,396
+Location & Accessibility,0.00000,6364.61205,2024Q3,FR,6364.61205,Burger King Paris #15,Paris,OpenTable,Burger King,28,25-34,Male,Reserved,Eat In,397
+Pricing,0.00000,8616.61201,2024Q3,UK,8616.61201,Subway London #53,London,Deliveroo,Subway,28,25-34,Male,Reserved,Delivery,398
