@@ -39,18 +39,11 @@ semantic_models:
       - name: drivers_of_satisfaction_x1
         type: categorical
 
-
     measures:
       - name: sample_size
         agg: sum
       - name: net_satisfaction_percentage_y1
         agg: sum
-      - name: net_satisfaction_percentage_y1_max
-        agg: max
-        expr: net_satisfaction_percentage_y1
-      - name: net_satisfaction_percentage_y1_min
-        agg: min              
-        expr: net_satisfaction_percentage_y1
 
 metrics:
   - name: net_satisfaction
@@ -58,14 +51,3 @@ metrics:
     type: simple
     type_params:
       measure: net_satisfaction_percentage_y1                 
-  - name: net_satisfaction_diff
-    label: Net Satisfactiona
-    type: simple
-    type_params:
-      measure: net_satisfaction_percentage_y1_min
-
-    # label: Net Satisfaction diff
-    # type: derived
-    # type_params:
-    #   expr: net_satisfaction_percentage_y1_max - net_satisfaction_percentage_y1_min
-    #   # expr: max(net_satisfaction_percentage_y1) - min(net_satisfaction_percentage_y1)
