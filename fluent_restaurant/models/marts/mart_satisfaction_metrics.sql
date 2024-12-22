@@ -18,7 +18,6 @@ WITH Aggregated_Quarterly_Metrics AS (
 
 Aggregated_Features_Metrics AS (
     SELECT
-        -- UNIQUE_ID,
         SK_COUNTRY_PERIOD,
         COUNTRY,
         QUARTERLY_PERIODS,
@@ -33,12 +32,10 @@ Aggregated_Features_Metrics AS (
         SUM(CASE WHEN METRIC_TYPE = 'Dissatisfaction' THEN DISSATISFACTION_WEIGHT ELSE 0 END) AS DISSATISFACTION_WEIGHT_X1, 
     FROM {{ ref('int_satisfaction_data') }}
     GROUP BY COUNTRY, QUARTERLY_PERIODS, FEATURE, RESTAURANT_BRAND, BOOKING_CHANNEL, AGE_BREAKS, ORDER_TYPE, CITY, RESERVATION_TYPE,SK_COUNTRY_PERIOD
-    -- , UNIQUE_ID
 ),
 
 Satisfaction_Drivers AS (
     SELECT
-        -- af.UNIQUE_ID,
         af.SK_COUNTRY_PERIOD,
         af.COUNTRY,
         af.QUARTERLY_PERIODS,
@@ -57,12 +54,9 @@ Satisfaction_Drivers AS (
     FROM Aggregated_Features_Metrics af
     JOIN Aggregated_Quarterly_Metrics aq 
         ON af.SK_COUNTRY_PERIOD = aq.SK_COUNTRY_PERIOD
-    -- ON af.COUNTRY = aq.COUNTRY
-    -- AND af.QUARTERLY_PERIODS = aq.QUARTERLY_PERIODS
 )
 
 SELECT
-    -- UNIQUE_ID,
     SK_COUNTRY_PERIOD,
     COUNTRY,
     QUARTERLY_PERIODS,
@@ -77,5 +71,5 @@ SELECT
 
     SAMPLE_SIZE,
     DRIVERS_OF_SATISFACTION_X1,
-    NET_SATISFACTION_PERCENTAGE_Y1,
+    NET_SATISFACTION_PERCENTAGE_Y1
 FROM Satisfaction_Drivers

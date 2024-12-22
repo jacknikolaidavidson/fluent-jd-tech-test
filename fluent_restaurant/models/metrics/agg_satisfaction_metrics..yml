@@ -1,0 +1,77 @@
+
+semantic_models:
+  - name: agg_satisfaction_metrics
+    defaults:
+      agg_time_dimension: quarterly_periods_start_date
+    description: |
+      Aggrgation mart for satisfaction metrics.
+      The grain of the model is one row per unique combination of the below for flexible aggregation using 'all' in the aggregation filter
+      - COUNTRY, QUARTERLY_PERIODS,RESTAURANT_BRAND,BOOKING_CHANNEL,AGE_BREAKS,ORDER_TYPE,CITY,RESERVATION_TYPE
+      For other aggregation filters grain is the unique combination of group by dimensions in the CTEs in agg_satisfaction_metric.sql
+
+    model: ref('agg_satisfaction_metrics')
+
+    entities:
+      - name: sk_country_period
+        type: primary
+
+    dimensions:   
+      - name: quarterly_periods
+        type: categorical
+      - name: quarterly_periods_start_date
+        type: time
+        type_params:
+          time_granularity: day
+      - name: country
+        type: categorical
+      - name: restaurant_brand
+        type: categorical
+      - name: booking_channel
+        type: categorical
+      - name: age_breaks
+        type: categorical
+      - name: order_type
+        type: categorical
+      - name: city
+        type: categorical
+      - name: reservation_type
+        type: categorical
+      - name: drivers_of_satisfaction_x1
+        type: categorical
+      - name: aggregation_level
+        type: categorical
+
+    measures:
+      - name: satisfaction_percentage
+        agg: sum               
+      - name: satisfaction_percentage_max
+        agg: max            
+      - name: satisfaction_percentage_min
+        agg: min            
+
+metrics:
+  - name: satisfaction_percentage
+    label: Net Satisfaction Sum
+    type: simple
+    type_params:
+      measure: satisfaction_percentage
+  - name: satisfaction_percentage_min
+    label: Net Satisfaction Min
+    type: simple
+    type_params:
+      measure: satisfaction_percentage_min
+  - name: satisfaction_percentage_max
+    label: Net Satisfaction Max
+    type: simple
+    type_params:
+      measure: satisfaction_percentage_max
+  - name: net_satisfaction_diff
+    label: Net Satisfaction Difference between max and min
+    type: derived
+    type_params:
+      expr: max - min
+      metrics:
+        - name: satisfaction_percentage_max
+          alias: max
+        - name: satisfaction_percentage_min
+          alias: min
