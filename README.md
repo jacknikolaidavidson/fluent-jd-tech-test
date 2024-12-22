@@ -1,5 +1,8 @@
 # fluent-jd-tech-test
  
+## Notion documentation
+- https://meteor-cat-d24.notion.site/Fluent-Tech-Test-161ad99d93388070b42bcb979e535e6b
+
 ## setting up environment
 virtualenv venv
 source ./venv/bin/activate
@@ -10,9 +13,9 @@ replace CWD with cloned directory location
 <!-- export DBT_PROFILES_DIR=/Users/jackn/Documents/GitHub/fluent-jd-tech-test/fluent_restaurant/ -->
 
 ## Run dbt
-dbt debug
-dbt deps
-dbt build
+- dbt debug
+- dbt deps
+- dbt build
 
 ## Commands to run MetricFlow queries
 ### 1.
