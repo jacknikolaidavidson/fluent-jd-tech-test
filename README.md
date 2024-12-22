@@ -3,7 +3,7 @@
 ## Notion documentation
 - https://meteor-cat-d24.notion.site/Fluent-Tech-Test-161ad99d93388070b42bcb979e535e6b
 
-## setting up environment
+## Setting up environment
 virtualenv venv
 source ./venv/bin/activate
 pip install -r requirements.txt
